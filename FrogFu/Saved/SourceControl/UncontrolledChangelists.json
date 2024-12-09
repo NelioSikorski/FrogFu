@@ -52,7 +52,10 @@
 				"E:/WinterGamejam2024/FrogFu/FrogFu/Content/__ExternalObjects__/TopDown/Maps/TestGroundsNelio/6/G7/EEZVO9BFHBDV39FV9Q5H16.uasset",
 				"E:/WinterGamejam2024/FrogFu/FrogFu/Content/__ExternalObjects__/TopDown/Maps/TestGroundsNelio/F/1H/CEV6E1KGIJUO4LXZJTKJ5U.uasset",
 				"E:/WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Maps/TestGroundsNelio.umap",
-				"E:/WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Maps/Vincent.umap"
+				"E:/WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Maps/Vincent.umap",
+				"E:/WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"E:/WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Input/Actions/IA_SetDestination_Click.uasset",
+				"E:/WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Input/Actions/IA_SetDestination_Touch.uasset"
 			]
 		}
 	]

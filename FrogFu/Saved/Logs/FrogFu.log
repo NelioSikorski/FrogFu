@@ -1985,3 +1985,201 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.09-10.54.32:743][737]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.12.09-10.54.32:743][737]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2024.12.09-10.54.32:772][738]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.08s
+[2024.12.09-10.55.03:107][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.12.09-10.55.03:111][434]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TopDown/Maps/TopDownMap.TopDownMap
+[2024.12.09-10.55.03:111][434]Cmd: MAP LOAD FILE="../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Maps/TopDownMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.09-10.55.03:154][434]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-10.55.03:154][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-10.55.03:154][434]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/TopDownMap.TopDownMap
+[2024.12.09-10.55.03:165][434]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.09-10.55.03:167][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.12.09-10.55.03:168][434]LogStreaming: Display: FlushAsyncLoading(475): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.09-10.55.03:172][434]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownMap'.
+[2024.12.09-10.55.03:172][434]LogChaosDD: Creating Chaos Debug Draw Scene for world TopDownMap
+[2024.12.09-10.55.03:173][434]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.12.09-10.55.03:173][434]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.09-10.55.03:173][434]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/TopDownMap.TopDownMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.09-10.55.03:186][434]LogWorldPartition: Display: WorldPartition initialize took 12.223 ms (total: 124.855 ms)
+[2024.12.09-10.55.03:249][434]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.09-10.55.03:249][434]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2024.12.09-10.55.03:249][434]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.12.09-10.55.03:258][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.12.09-10.55.03:261][434]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.09-10.55.03:262][434]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.477ms to complete.
+[2024.12.09-10.55.03:291][435]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.04s
+[2024.12.09-10.55.04:770][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.12.09-10.55.04:773][607]LogStreaming: Display: FlushAsyncLoading(521): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.09-10.55.04:778][607]LogChaosDD: Creating Chaos Debug Draw Scene for world TestGroundsNelio
+[2024.12.09-10.55.04:781][607]LogWorldPartition: ULevel::OnLevelLoaded(TestGroundsNelio)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.12.09-10.55.04:781][607]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.09-10.55.04:781][607]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/TestGroundsNelio.TestGroundsNelio, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.09-10.55.04:793][607]LogWorldPartition: Display: WorldPartition initialize took 12.432 ms (total: 137.288 ms)
+[2024.12.09-10.55.04:795][607]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TopDown/Maps/TestGroundsNelio.TestGroundsNelio
+[2024.12.09-10.55.04:795][607]Cmd: MAP LOAD FILE="../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Maps/TestGroundsNelio.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.09-10.55.04:803][607]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-10.55.04:803][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-10.55.04:803][607]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/TopDownMap.TopDownMap
+[2024.12.09-10.55.04:814][607]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.09-10.55.04:816][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.12.09-10.55.04:816][607]LogWorld: UWorld::CleanupWorld for TestGroundsNelio, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-10.55.04:818][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-10.55.04:818][607]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/TestGroundsNelio.TestGroundsNelio
+[2024.12.09-10.55.04:829][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.12.09-10.55.04:839][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.12.09-10.55.04:843][607]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestGroundsNelio'.
+[2024.12.09-10.55.04:843][607]LogChaosDD: Creating Chaos Debug Draw Scene for world TestGroundsNelio
+[2024.12.09-10.55.04:845][607]LogWorldPartition: ULevel::OnLevelLoaded(TestGroundsNelio)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.12.09-10.55.04:845][607]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.09-10.55.04:845][607]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/TestGroundsNelio.TestGroundsNelio, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.09-10.55.04:857][607]LogWorldPartition: Display: WorldPartition initialize took 12.550 ms (total: 149.839 ms)
+[2024.12.09-10.55.04:909][607]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.09-10.55.04:910][607]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2024.12.09-10.55.04:910][607]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.12.09-10.55.04:919][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.12.09-10.55.04:923][607]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.09-10.55.04:923][607]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.497ms to complete.
+[2024.12.09-10.55.04:953][608]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.04s
+[2024.12.09-10.56.05:468][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.12.09-10.56.05:472][469]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TopDown/Maps/TestGroundsNelio.TestGroundsNelio
+[2024.12.09-10.56.05:472][469]Cmd: MAP LOAD FILE="../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Maps/TestGroundsNelio.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.09-10.56.05:517][469]LogWorld: UWorld::CleanupWorld for TestGroundsNelio, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-10.56.05:517][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-10.56.05:517][469]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/TestGroundsNelio.TestGroundsNelio
+[2024.12.09-10.56.05:529][469]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.09-10.56.05:531][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.12.09-10.56.05:532][469]LogStreaming: Display: FlushAsyncLoading(613): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.09-10.56.05:536][469]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestGroundsNelio'.
+[2024.12.09-10.56.05:536][469]LogChaosDD: Creating Chaos Debug Draw Scene for world TestGroundsNelio
+[2024.12.09-10.56.05:538][469]LogWorldPartition: ULevel::OnLevelLoaded(TestGroundsNelio)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.12.09-10.56.05:538][469]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.09-10.56.05:538][469]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/TestGroundsNelio.TestGroundsNelio, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.09-10.56.05:550][469]LogWorldPartition: Display: WorldPartition initialize took 12.081 ms (total: 161.920 ms)
+[2024.12.09-10.56.05:605][469]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.09-10.56.05:606][469]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2024.12.09-10.56.05:606][469]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.12.09-10.56.05:617][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.12.09-10.56.05:619][469]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.09-10.56.05:620][469]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.511ms to complete.
+[2024.12.09-10.56.05:654][470]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.05s
+[2024.12.09-10.56.12:499][254]LogChaosDD: Creating Chaos Debug Draw Scene for world World_2
+[2024.12.09-10.56.20:742][160]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2024.12.09-10.56.20:743][160]LogChaosDD: Creating Chaos Debug Draw Scene for world World_3
+[2024.12.09-10.56.20:823][160]LogStreaming: Display: FlushAsyncLoading(659): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.09-10.56.21:722][160]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2024.12.09-10.56.21:723][160]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2024.12.09-10.56.22:074][160]LogSlate: Took 0.002444 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.12.09-10.56.22:278][163]LogChaosDD: Creating Chaos Debug Draw Scene for world World_4
+[2024.12.09-10.56.25:165][445]LogSlate: Window 'BP_TopDownCharacter' being destroyed
+[2024.12.09-10.56.27:023][658]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_TopDownController.BP_TopDownController
+[2024.12.09-10.56.27:023][658]LogChaosDD: Creating Chaos Debug Draw Scene for world World_5
+[2024.12.09-10.56.52:778][618]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1059.788208
+[2024.12.09-10.56.52:936][637]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.09-10.56.52:936][637]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1059.939087, Update Interval: 340.288086
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: ================================================
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: Total job queries 11,631, among them cache hits 11 (0.09%), DDC hits 0 (0.00%), Duplicates 2,682 (23.06%)
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: Tracking 8,938 distinct input hashes that result in 8,447 distinct outputs (94.51%)
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: RAM used: 6.35 MiB of 1.60 GiB budget. Usage: 0.39%
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: Shaders Compiled: 8,938
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: Jobs assigned 8,938, completed 8,938 (100%)
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: Average time worker was idle: 5.18 s
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: Time job spent in pending queue: average 202.39 s, longest 433.99 s
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: Job execution time: average 4.01 s, max 83.71 s
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: Job life time (pending + execution): average 206.40 s, max 434.43
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: Shader code size: average 14.326 KiB, min 1.16 KiB, max 330.049 KiB
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 469.94 s
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.18%
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: Jobs were issued in 992 batches (only local compilation was used), average 9.01 jobs/batch
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: Average processing rate: 19.02 jobs/sec
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: Total thread time: 3,607.725 s
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: Total thread preprocess time: 103.147 s
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: Percentage time preprocessing: 2.86%
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: Effective parallelization: 7.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 15.62 sec, max 53.67 sec, min 0.81 sec)
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 11.08 sec, max 11.08 sec, min 11.08 sec)
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 6.11 sec, max 7.07 sec, min 3.82 sec)
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display:                                            FGBufferPickingCS (compiled    1 times, average 2.63 sec, max 2.63 sec, min 2.63 sec)
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled   32 times, average 2.59 sec, max 5.11 sec, min 0.95 sec)
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.66% of total time (compiled  454 times, average 1.01 sec, max 1.44 sec, min 0.77 sec)
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 11.69% of total time (compiled   27 times, average 15.62 sec, max 53.67 sec, min 0.81 sec)
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 9.97% of total time (compiled  260 times, average 1.38 sec, max 3.39 sec, min 0.00 sec)
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 5.56% of total time (compiled  480 times, average 0.42 sec, max 0.70 sec, min 0.18 sec)
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 4.26% of total time (compiled   72 times, average 2.13 sec, max 4.53 sec, min 1.38 sec)
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: === Material stats ===
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: Materials Translated:    136
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: Material Translation Only: 0.04 s (49%)
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2024.12.09-10.57.28:257][843]LogShaderCompilers: Display: ================================================
+[2024.12.09-11.00.57:710][212]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-11.00.57:733][212]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownController] ([2] browsable assets)...
+[2024.12.09-11.00.57:733][212]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownController]
+[2024.12.09-11.00.57:733][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownController" FILE="../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_TopDownController.uasset" SILENT=true
+[2024.12.09-11.00.57:753][212]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownController
+[2024.12.09-11.00.57:753][212]LogSavePackage: Moving '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Saved/BP_TopDownController64FCE80E4E80E39F742CF08ED3A8C7BA.tmp' to '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_TopDownController.uasset'
+[2024.12.09-11.00.57:759][212]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.344 ms (total: 328.224 ms)
+[2024.12.09-11.00.57:787][212]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-11.00.57:787][212]LogContentValidation: Enabled validators:
+[2024.12.09-11.00.57:787][212]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.09-11.00.57:787][212]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-11.00.57:787][212]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-11.00.57:787][212]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.09-11.00.57:787][212]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-11.00.57:787][212]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.09-11.00.57:787][212]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownController Validating asset
+[2024.12.09-11.02.45:432][949]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1412.435913
+[2024.12.09-11.02.45:606][970]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.09-11.02.45:606][970]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1412.601685, Update Interval: 326.565765
+[2024.12.09-11.02.46:293][ 53]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/TopDown/Input/Actions/IA_SetDestination_Click.IA_SetDestination_Click
+[2024.12.09-11.03.53:411][475]LogStreaming: Display: FlushAsyncLoading(832): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.09-11.03.53:411][475]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/Characters/Input/IA_Look (0x59050FC28B23A0) - The package to load does not exist on disk or in the loader
+[2024.12.09-11.03.53:411][475]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Characters/Input/IA_Look.IA_Look'
+[2024.12.09-11.03.53:411][475]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/Characters/Input/IA_Move (0x1BB0E7366786AE0) - The package to load does not exist on disk or in the loader
+[2024.12.09-11.03.53:412][475]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Characters/Input/IA_Move.IA_Move'
+[2024.12.09-11.03.59:475][922]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.12.09-11.04.29:041][938]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2024.12.09-11.04.29:050][938]LogContentBrowser: Creating deferred item: NewInputAction
+[2024.12.09-11.04.29:057][939]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2024.12.09-11.04.35:859][754]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Move
+[2024.12.09-11.04.35:860][754]LogContentBrowser: End creating deferred item NewInputAction
+[2024.12.09-11.04.40:619][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.12.09-11.04.42:479][313]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.09-11.04.42:641][313]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-11.04.42:641][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-11.04.42:668][313]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/TopDown/Input/Actions/IA_SetDestination_Click.IA_SetDestination_Click
+	Asset Type: InputAction
+[2024.12.09-11.04.42:934][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.12.09-11.04.42:957][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.12.09-11.04.42:975][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.12.09-11.04.43:005][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.12.09-11.04.43:764][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.12.09-11.04.44:705][396]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.09-11.04.44:812][396]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/TopDown/Input/Actions/IA_SetDestination_Touch.IA_SetDestination_Touch
+	Asset Type: InputAction
+[2024.12.09-11.04.45:059][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.12.09-11.04.45:078][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.12.09-11.04.45:096][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.12.09-11.04.54:379][497]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/TopDown/Input/IMC_Default.IMC_Default
+[2024.12.09-11.04.57:957][904]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.12.09-11.06.05:355][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.12.09-11.06.05:357][354]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TestGroundsNelio' took 0.031
+[2024.12.09-11.06.05:358][354]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownController] ([2] browsable assets)...
+[2024.12.09-11.06.05:358][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownController]
+[2024.12.09-11.06.05:371][354]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/BP_TopDownController_Auto1
+[2024.12.09-11.06.05:371][354]LogSavePackage: Moving '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Saved/BP_TopDownController_Auto1893923514A6E8E54B7B810B3AE9D2876.tmp' to '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Saved/Autosaves/Game/TopDown/Blueprints/BP_TopDownController_Auto1.uasset'
+[2024.12.09-11.06.05:372][354]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Input/Actions/IA_Move] ([1] browsable assets)...
+[2024.12.09-11.06.05:372][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Input/Actions/IA_Move]
+[2024.12.09-11.06.05:372][354]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Input/Actions/IA_Move_Auto1
+[2024.12.09-11.06.05:372][354]LogSavePackage: Moving '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Saved/IA_Move_Auto16364A5F04944F0B5B9C8A383F6412F28.tmp' to '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Saved/Autosaves/Game/TopDown/Input/Actions/IA_Move_Auto1.uasset'
+[2024.12.09-11.06.05:372][354]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Input/IMC_Default] ([1] browsable assets)...
+[2024.12.09-11.06.05:372][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Input/IMC_Default]
+[2024.12.09-11.06.05:373][354]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Input/IMC_Default_Auto1
+[2024.12.09-11.06.05:373][354]LogSavePackage: Moving '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Saved/IMC_Default_Auto1D2E47A8D4F9F19A5DE9E80A961B0F274.tmp' to '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Saved/Autosaves/Game/TopDown/Input/IMC_Default_Auto1.uasset'
+[2024.12.09-11.06.05:373][354]LogFileHelpers: Auto-saving content packages took 0.016
