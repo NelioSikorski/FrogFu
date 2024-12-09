@@ -2183,3 +2183,70 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.09-11.06.05:373][354]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Input/IMC_Default_Auto1
 [2024.12.09-11.06.05:373][354]LogSavePackage: Moving '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Saved/IMC_Default_Auto1D2E47A8D4F9F19A5DE9E80A961B0F274.tmp' to '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Saved/Autosaves/Game/TopDown/Input/IMC_Default_Auto1.uasset'
 [2024.12.09-11.06.05:373][354]LogFileHelpers: Auto-saving content packages took 0.016
+[2024.12.09-11.08.13:632][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.12.09-11.08.15:248][226]LogSlate: Window 'Save Content' being destroyed
+[2024.12.09-11.08.15:254][226]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-11.08.15:283][226]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownController] ([2] browsable assets)...
+[2024.12.09-11.08.15:283][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownController]
+[2024.12.09-11.08.15:283][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownController" FILE="../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_TopDownController.uasset" SILENT=true
+[2024.12.09-11.08.15:297][226]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownController
+[2024.12.09-11.08.15:297][226]LogSavePackage: Moving '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Saved/BP_TopDownController483A04AF4C4C22C984BF8995E91F5FF8.tmp' to '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_TopDownController.uasset'
+[2024.12.09-11.08.15:298][226]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Input/Actions/IA_Move] ([1] browsable assets)...
+[2024.12.09-11.08.15:298][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Input/Actions/IA_Move]
+[2024.12.09-11.08.15:298][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Input/Actions/IA_Move" FILE="../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Input/Actions/IA_Move.uasset" SILENT=true
+[2024.12.09-11.08.15:298][226]LogSavePackage: Moving output files for package: /Game/TopDown/Input/Actions/IA_Move
+[2024.12.09-11.08.15:299][226]LogSavePackage: Moving '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Saved/IA_MoveAE6F6E3144582C2717B1B2BD7635889C.tmp' to '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Input/Actions/IA_Move.uasset'
+[2024.12.09-11.08.15:299][226]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Input/IMC_Default] ([1] browsable assets)...
+[2024.12.09-11.08.15:299][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Input/IMC_Default]
+[2024.12.09-11.08.15:299][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Input/IMC_Default" FILE="../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Input/IMC_Default.uasset" SILENT=true
+[2024.12.09-11.08.15:299][226]LogSavePackage: Moving output files for package: /Game/TopDown/Input/IMC_Default
+[2024.12.09-11.08.15:299][226]LogSavePackage: Moving '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Saved/IMC_Default9481D27F45FC0242A3D982A8A93ABCBD.tmp' to '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Input/IMC_Default.uasset'
+[2024.12.09-11.08.15:306][226]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.244 ms (total: 379.468 ms)
+[2024.12.09-11.08.15:332][226]LogContentValidation: Display: Starting to validate 3 assets
+[2024.12.09-11.08.15:332][226]LogContentValidation: Enabled validators:
+[2024.12.09-11.08.15:332][226]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.09-11.08.15:332][226]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-11.08.15:332][226]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-11.08.15:332][226]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.09-11.08.15:332][226]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-11.08.15:332][226]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.09-11.08.15:332][226]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownController Validating asset
+[2024.12.09-11.08.15:332][226]AssetCheck: /Game/TopDown/Input/Actions/IA_Move Validating asset
+[2024.12.09-11.08.15:332][226]AssetCheck: /Game/TopDown/Input/IMC_Default Validating asset
+[2024.12.09-11.08.43:694][672]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1770.695801
+[2024.12.09-11.08.44:696][675]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.09-11.08.44:696][675]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1771.362427, Update Interval: 320.446167
+[2024.12.09-11.12.54:113][225]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-11.12.54:143][225]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Input/IMC_Default] ([1] browsable assets)...
+[2024.12.09-11.12.54:143][225]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Input/IMC_Default]
+[2024.12.09-11.12.54:143][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Input/IMC_Default" FILE="../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Input/IMC_Default.uasset" SILENT=true
+[2024.12.09-11.12.54:145][225]LogSavePackage: Moving output files for package: /Game/TopDown/Input/IMC_Default
+[2024.12.09-11.12.54:145][225]LogSavePackage: Moving '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Saved/IMC_Default41C5AA27490DCB023C3FBC8357A73523.tmp' to '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Input/IMC_Default.uasset'
+[2024.12.09-11.12.54:150][225]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.710 ms (total: 416.178 ms)
+[2024.12.09-11.12.54:178][225]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-11.12.54:178][225]LogContentValidation: Enabled validators:
+[2024.12.09-11.12.54:178][225]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.09-11.12.54:178][225]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-11.12.54:178][225]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-11.12.54:178][225]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.09-11.12.54:178][225]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-11.12.54:178][225]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.09-11.12.54:179][225]AssetCheck: /Game/TopDown/Input/IMC_Default Validating asset
+[2024.12.09-11.12.55:995][427]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-11.12.56:020][427]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Input/IMC_Default] ([1] browsable assets)...
+[2024.12.09-11.12.56:020][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Input/IMC_Default]
+[2024.12.09-11.12.56:020][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Input/IMC_Default" FILE="../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Input/IMC_Default.uasset" SILENT=true
+[2024.12.09-11.12.56:021][427]LogSavePackage: Moving output files for package: /Game/TopDown/Input/IMC_Default
+[2024.12.09-11.12.56:022][427]LogSavePackage: Moving '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Saved/IMC_DefaultE77A5DD54A0261E5F4F6E78B6BB4FB75.tmp' to '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Input/IMC_Default.uasset'
+[2024.12.09-11.12.56:027][427]LogFileHelpers: InternalPromptForCheckoutAndSave took 32.018 ms (total: 448.196 ms)
+[2024.12.09-11.12.56:053][427]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-11.12.56:053][427]LogContentValidation: Enabled validators:
+[2024.12.09-11.12.56:053][427]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.09-11.12.56:053][427]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-11.12.56:053][427]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-11.12.56:053][427]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.09-11.12.56:053][427]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-11.12.56:053][427]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.09-11.12.56:053][427]AssetCheck: /Game/TopDown/Input/IMC_Default Validating asset
+[2024.12.09-11.13.05:561][478]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.12.09-11.13.05:620][480]LogPSOHitching: Encountered 200 PSO creation hitches so far (109 graphics, 91 compute). 0 of them were precached.

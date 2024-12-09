@@ -55,7 +55,9 @@
 				"E:/WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Maps/Vincent.umap",
 				"E:/WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_TopDownController.uasset",
 				"E:/WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Input/Actions/IA_SetDestination_Click.uasset",
-				"E:/WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Input/Actions/IA_SetDestination_Touch.uasset"
+				"E:/WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Input/Actions/IA_SetDestination_Touch.uasset",
+				"E:/WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Input/Actions/IA_Move.uasset",
+				"E:/WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Input/IMC_Default.uasset"
 			]
 		}
 	]
