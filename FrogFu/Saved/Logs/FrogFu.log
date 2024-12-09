@@ -2250,3 +2250,715 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.09-11.12.56:053][427]AssetCheck: /Game/TopDown/Input/IMC_Default Validating asset
 [2024.12.09-11.13.05:561][478]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
 [2024.12.09-11.13.05:620][480]LogPSOHitching: Encountered 200 PSO creation hitches so far (109 graphics, 91 compute). 0 of them were precached.
+[2024.12.09-11.14.36:070][547]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2123.070068
+[2024.12.09-11.14.36:244][568]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.09-11.14.36:244][568]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2123.236328, Update Interval: 342.357239
+[2024.12.09-11.15.48:904][529]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.12.09-11.16.44:857][ 72]LogStreaming: Display: FlushAsyncLoading(836): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.09-11.16.44:857][ 72]LogProperty: Warning: ObjectProperty /Script/InputBlueprintNodes.K2Node_EnhancedInputAction:InputAction: unresolved reference to '"/Script/EnhancedInput.InputAction'/Game/Characters/Input/IA_Move.IA_Move'"'
+[2024.12.09-11.17.50:815][106]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/TopDown/Input/IMC_Default.IMC_Default
+[2024.12.09-11.17.58:035][941]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/TopDown/Input/Actions/IA_Move.IA_Move
+[2024.12.09-11.18.17:872][129]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-11.18.17:902][129]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Input/Actions/IA_Move] ([1] browsable assets)...
+[2024.12.09-11.18.17:902][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Input/Actions/IA_Move]
+[2024.12.09-11.18.17:902][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Input/Actions/IA_Move" FILE="../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Input/Actions/IA_Move.uasset" SILENT=true
+[2024.12.09-11.18.17:903][129]LogSavePackage: Moving output files for package: /Game/TopDown/Input/Actions/IA_Move
+[2024.12.09-11.18.17:903][129]LogSavePackage: Moving '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Saved/IA_MoveFF796C53456A970A2FC7108C2B712D22.tmp' to '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Input/Actions/IA_Move.uasset'
+[2024.12.09-11.18.17:910][129]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.570 ms (total: 486.767 ms)
+[2024.12.09-11.18.17:943][129]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-11.18.17:943][129]LogContentValidation: Enabled validators:
+[2024.12.09-11.18.17:943][129]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.09-11.18.17:943][129]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-11.18.17:943][129]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-11.18.17:943][129]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.09-11.18.17:943][129]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-11.18.17:943][129]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.09-11.18.17:943][129]AssetCheck: /Game/TopDown/Input/Actions/IA_Move Validating asset
+[2024.12.09-11.19.01:272][498]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-11.19.01:303][498]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2024.12.09-11.19.01:381][498]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2024.12.09-11.19.01:381][498]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2024.12.09-11.19.01:381][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2024.12.09-11.19.01:392][498]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2024.12.09-11.19.01:393][498]LogSavePackage: Moving '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Saved/BP_TopDownCharacterF729BFA94D54E01ECEBE499D31D73B83.tmp' to '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2024.12.09-11.19.01:398][498]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.271 ms (total: 613.038 ms)
+[2024.12.09-11.19.01:420][498]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-11.19.01:420][498]LogContentValidation: Enabled validators:
+[2024.12.09-11.19.01:420][498]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.09-11.19.01:420][498]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-11.19.01:420][498]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-11.19.01:420][498]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.09-11.19.01:420][498]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-11.19.01:420][498]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.09-11.19.01:420][498]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2024.12.09-11.19.06:959][159]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-11.19.06:986][159]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2024.12.09-11.19.07:058][159]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2024.12.09-11.19.07:058][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2024.12.09-11.19.07:058][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2024.12.09-11.19.07:063][159]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2024.12.09-11.19.07:063][159]LogSavePackage: Moving '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Saved/BP_TopDownCharacter9F89822242426E5F56D216A666EFE285.tmp' to '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2024.12.09-11.19.07:068][159]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.911 ms (total: 722.949 ms)
+[2024.12.09-11.19.07:097][159]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-11.19.07:097][159]LogContentValidation: Enabled validators:
+[2024.12.09-11.19.07:097][159]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.09-11.19.07:097][159]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-11.19.07:097][159]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-11.19.07:097][159]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.09-11.19.07:097][159]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-11.19.07:097][159]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.09-11.19.07:097][159]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2024.12.09-11.19.46:346][707]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.09-11.19.46:349][707]LogContentBundle: [TestGroundsNelio(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.09-11.19.46:349][707]LogWorldPartition: Display: GenerateStreaming for 'TestGroundsNelio' started...
+[2024.12.09-11.19.46:351][707]LogWorldPartition: Display: GenerateStreaming for 'TestGroundsNelio' took 1.544 ms (total: 24.383 ms)
+[2024.12.09-11.19.46:352][707]LogPlayLevel: [PlayLevel] Compiling BP_TopDownController before play...
+[2024.12.09-11.19.46:354][707]LogBlueprint: Warning: [AssetLog] E:\WinterGamejam2024\FrogFu\FrogFu\Content\TopDown\Blueprints\BP_TopDownController.uasset: [Compiler] EnhancedInputAction None  does not have a valid Input Action asset!!
+[2024.12.09-11.19.46:355][707]LogBlueprint: Warning: [AssetLog] E:\WinterGamejam2024\FrogFu\FrogFu\Content\TopDown\Blueprints\BP_TopDownController.uasset: [Compiler] EnhancedInputAction None  does not have a valid Input Action asset!!
+[2024.12.09-11.19.46:355][707]LogBlueprint: Error: [AssetLog] E:\WinterGamejam2024\FrogFu\FrogFu\Content\TopDown\Blueprints\BP_TopDownController.uasset: [Compiler] EnhancedInputActionEvent references invalid 'null' action for  EnhancedInputAction None
+[2024.12.09-11.19.46:355][707]LogBlueprint: Error: [AssetLog] E:\WinterGamejam2024\FrogFu\FrogFu\Content\TopDown\Blueprints\BP_TopDownController.uasset: [Compiler] EnhancedInputActionEvent references invalid 'null' action for  EnhancedInputAction None
+[2024.12.09-11.19.46:360][707]LogPlayLevel: [PlayLevel] Compiling BP_TopDownCharacter before play...
+[2024.12.09-11.19.46:446][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.12.09-11.19.46:449][707]LogPlayLevel: PlayLevel: Blueprint regeneration took 98 ms (2 blueprints)
+[2024.12.09-11.19.46:449][707]BlueprintLog: Warning: Blueprint failed to compile:  BP_TopDownController
+[2024.12.09-11.19.48:732][707]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.12.09-11.19.50:556][912]LogSlate: Window 'Message Log' being destroyed
+[2024.12.09-11.19.50:560][912]LogSlate: Window 'Message Log' being destroyed
+[2024.12.09-11.19.51:760][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.12.09-11.20.07:813][956]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-11.20.07:844][956]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2024.12.09-11.20.07:924][956]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2024.12.09-11.20.07:924][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2024.12.09-11.20.07:924][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2024.12.09-11.20.07:930][956]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2024.12.09-11.20.07:930][956]LogSavePackage: Moving '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Saved/BP_TopDownCharacterD10E248948B49C85BDF2778FE728F5DA.tmp' to '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2024.12.09-11.20.07:936][956]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.707 ms (total: 845.657 ms)
+[2024.12.09-11.20.07:956][956]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-11.20.07:956][956]LogContentValidation: Enabled validators:
+[2024.12.09-11.20.07:956][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.09-11.20.07:956][956]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-11.20.07:956][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-11.20.07:956][956]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.09-11.20.07:956][956]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-11.20.07:956][956]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.09-11.20.07:956][956]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2024.12.09-11.20.10:050][206]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.09-11.20.10:053][206]LogContentBundle: [TestGroundsNelio(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.09-11.20.10:053][206]LogWorldPartition: Display: GenerateStreaming for 'TestGroundsNelio' started...
+[2024.12.09-11.20.10:055][206]LogWorldPartition: Display: GenerateStreaming for 'TestGroundsNelio' took 1.579 ms (total: 25.963 ms)
+[2024.12.09-11.20.10:055][206]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.09-11.20.10:055][206]BlueprintLog: Warning: Blueprint failed to compile:  BP_TopDownController
+[2024.12.09-11.20.14:783][206]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.12.09-11.20.16:145][361]LogSlate: Window 'Message Log' being destroyed
+[2024.12.09-11.20.16:149][361]LogSlate: Window 'Message Log' being destroyed
+[2024.12.09-11.20.30:820][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.12.09-11.20.32:067][ 81]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.09-11.20.32:168][ 81]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/TopDown/Blueprints/BP_TopDownController.BP_TopDownController
+	Asset Type: Blueprint
+[2024.12.09-11.20.32:533][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.12.09-11.20.32:551][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.12.09-11.20.32:568][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.12.09-11.20.34:137][249]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.09-11.20.34:141][249]LogContentBundle: [TestGroundsNelio(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.09-11.20.34:141][249]LogWorldPartition: Display: GenerateStreaming for 'TestGroundsNelio' started...
+[2024.12.09-11.20.34:142][249]LogWorldPartition: Display: GenerateStreaming for 'TestGroundsNelio' took 1.467 ms (total: 27.430 ms)
+[2024.12.09-11.20.34:142][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.09-11.20.34:142][249]LogPlayLevel: Display: Creating online subsystem for client :Context_9
+[2024.12.09-11.20.34:144][249]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.12.09-11.20.34:165][250]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio
+[2024.12.09-11.20.34:169][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003479s)
+[2024.12.09-11.20.34:169][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TestGroundsNelio.TestGroundsNelio to /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio (0.003523s)
+[2024.12.09-11.20.34:188][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.12.09-11.20.34:190][250]LogChaosDD: Creating Chaos Debug Draw Scene for world TestGroundsNelio
+[2024.12.09-11.20.34:192][250]LogWorldPartition: ULevel::OnLevelLoaded(TestGroundsNelio)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.09-11.20.34:192][250]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.09-11.20.34:192][250]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.09-11.20.34:192][250]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.09-11.20.34:193][250]LogWorldPartition: Display: WorldPartition initialize took 1.234 ms (total: 163.155 ms)
+[2024.12.09-11.20.34:193][250]LogPlayLevel: PIE: World Init took: (0.002650s)
+[2024.12.09-11.20.34:194][250]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.12.09-11.20.34:194][250]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.09-11.20.34:194][250]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.09-11.20.34:194][250]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.09-11.20.34:194][250]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.09-11.20.34:194][250]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.09-11.20.34:194][250]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.09-11.20.34:194][250]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.09-11.20.34:194][250]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.09-11.20.34:194][250]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.09-11.20.34:194][250]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.09-11.20.34:194][250]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.09-11.20.34:196][250]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.09-11.20.34:213][250]LogAudioMixer: Display: Using Audio Hardware Device Lautsprecher (Sound Blaster Z)
+[2024.12.09-11.20.34:214][250]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.09-11.20.34:214][250]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.09-11.20.34:214][250]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.09-11.20.34:215][250]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.12.09-11.20.34:215][250]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=4
+[2024.12.09-11.20.34:216][250]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.12.09-11.20.34:216][250]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.12.09-11.20.34:216][250]LogInit: FAudioDevice initialized with ID 4.
+[2024.12.09-11.20.34:216][250]LogAudio: Display: Audio Device (ID: 4) registered with world 'TestGroundsNelio'.
+[2024.12.09-11.20.34:217][250]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.12.09-11.20.34:219][250]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.12.09-11.20.34:221][250]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio up for play (max tick rate 0) at 2024.12.09-12.20.34
+[2024.12.09-11.20.34:221][250]LogWorld: Bringing up level for play took: 0.001498
+[2024.12.09-11.20.34:221][250]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.12.09-11.20.34:221][250]LogGameMode: Login: Couldn't spawn player controller of class NULL
+[2024.12.09-11.20.34:221][250]LogSpawn: Warning: Login failed: Failed to spawn player controller
+[2024.12.09-11.20.37:135][250]LogSlate: Window 'Message' being destroyed
+[2024.12.09-11.20.37:140][250]Message dialog closed, result: Ok, title: Message, text: Couldn't spawn player: Failed to spawn player controller
+[2024.12.09-11.20.37:140][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-11.20.37:140][250]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio
+[2024.12.09-11.20.37:140][250]LogWorld: UWorld::CleanupWorld for TestGroundsNelio, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-11.20.37:141][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-11.20.37:141][250]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio
+[2024.12.09-11.20.37:143][250]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.09-11.20.37:147][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-11.20.37:166][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-11.20.37:166][250]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.12.09-11.20.37:166][250]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.12.09-11.20.37:168][250]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.12.09-11.20.37:174][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.12.09-11.20.37:232][251]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.12.09-11.20.41:851][767]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.09-11.20.41:854][767]LogContentBundle: [TestGroundsNelio(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.09-11.20.41:854][767]LogWorldPartition: Display: GenerateStreaming for 'TestGroundsNelio' started...
+[2024.12.09-11.20.41:855][767]LogWorldPartition: Display: GenerateStreaming for 'TestGroundsNelio' took 1.466 ms (total: 28.897 ms)
+[2024.12.09-11.20.41:855][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.09-11.20.41:856][767]LogPlayLevel: Display: Creating online subsystem for client :Context_10
+[2024.12.09-11.20.41:857][767]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.12.09-11.20.41:878][768]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio
+[2024.12.09-11.20.41:881][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003324s)
+[2024.12.09-11.20.41:881][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TestGroundsNelio.TestGroundsNelio to /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio (0.003358s)
+[2024.12.09-11.20.41:900][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.12.09-11.20.41:902][768]LogChaosDD: Creating Chaos Debug Draw Scene for world TestGroundsNelio
+[2024.12.09-11.20.41:903][768]LogWorldPartition: ULevel::OnLevelLoaded(TestGroundsNelio)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.09-11.20.41:903][768]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.09-11.20.41:903][768]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.09-11.20.41:903][768]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.09-11.20.41:904][768]LogWorldPartition: Display: WorldPartition initialize took 1.226 ms (total: 164.381 ms)
+[2024.12.09-11.20.41:904][768]LogPlayLevel: PIE: World Init took: (0.002520s)
+[2024.12.09-11.20.41:905][768]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.12.09-11.20.41:905][768]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.09-11.20.41:905][768]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.09-11.20.41:905][768]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.09-11.20.41:905][768]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.09-11.20.41:905][768]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.09-11.20.41:905][768]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.09-11.20.41:905][768]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.09-11.20.41:905][768]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.09-11.20.41:905][768]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.09-11.20.41:905][768]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.09-11.20.41:905][768]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.09-11.20.41:907][768]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.09-11.20.41:925][768]LogAudioMixer: Display: Using Audio Hardware Device Lautsprecher (Sound Blaster Z)
+[2024.12.09-11.20.41:926][768]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.09-11.20.41:926][768]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.09-11.20.41:926][768]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.09-11.20.41:926][768]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.12.09-11.20.41:926][768]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=5
+[2024.12.09-11.20.41:928][768]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.12.09-11.20.41:928][768]LogInit: FAudioDevice initialized with ID 5.
+[2024.12.09-11.20.41:928][768]LogAudio: Display: Audio Device (ID: 5) registered with world 'TestGroundsNelio'.
+[2024.12.09-11.20.41:928][768]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.12.09-11.20.41:928][768]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.12.09-11.20.41:931][768]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.12.09-11.20.41:932][768]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio up for play (max tick rate 0) at 2024.12.09-12.20.41
+[2024.12.09-11.20.41:932][768]LogWorld: Bringing up level for play took: 0.001495
+[2024.12.09-11.20.41:933][768]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.12.09-11.20.41:933][768]LogGameMode: Login: Couldn't spawn player controller of class NULL
+[2024.12.09-11.20.41:933][768]LogSpawn: Warning: Login failed: Failed to spawn player controller
+[2024.12.09-11.20.43:531][768]LogSlate: Window 'Message' being destroyed
+[2024.12.09-11.20.43:536][768]Message dialog closed, result: Ok, title: Message, text: Couldn't spawn player: Failed to spawn player controller
+[2024.12.09-11.20.43:536][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-11.20.43:536][768]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio
+[2024.12.09-11.20.43:536][768]LogWorld: UWorld::CleanupWorld for TestGroundsNelio, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-11.20.43:536][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-11.20.43:538][768]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio
+[2024.12.09-11.20.43:540][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.09-11.20.43:544][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-11.20.43:561][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-11.20.43:561][768]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.12.09-11.20.43:561][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.12.09-11.20.43:563][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.12.09-11.20.43:570][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.12.09-11.20.43:630][769]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.12.09-11.20.44:267][829]Cmd: TRANSACTION UNDO
+[2024.12.09-11.20.44:267][829]LogEditorTransaction: Undo Clicking on Elements
+[2024.12.09-11.20.45:684][955]Cmd: TRANSACTION UNDO
+[2024.12.09-11.20.45:684][955]LogEditorTransaction: Undo Delete current selection
+[2024.12.09-11.20.47:678][177]Cmd: TRANSACTION UNDO
+[2024.12.09-11.20.47:678][177]LogEditorTransaction: Undo Move Node
+[2024.12.09-11.20.55:033][  9]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode
+[2024.12.09-11.20.55:033][  9]LogChaosDD: Creating Chaos Debug Draw Scene for world World_6
+[2024.12.09-11.21.07:756][314]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.09-11.21.07:760][314]LogContentBundle: [TestGroundsNelio(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.09-11.21.07:760][314]LogWorldPartition: Display: GenerateStreaming for 'TestGroundsNelio' started...
+[2024.12.09-11.21.07:761][314]LogWorldPartition: Display: GenerateStreaming for 'TestGroundsNelio' took 1.489 ms (total: 30.386 ms)
+[2024.12.09-11.21.07:762][314]LogPlayLevel: [PlayLevel] Compiling BP_TopDownCharacter before play...
+[2024.12.09-11.21.07:838][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.12.09-11.21.07:841][314]LogPlayLevel: PlayLevel: Blueprint regeneration took 79 ms (1 blueprints)
+[2024.12.09-11.21.07:841][314]LogPlayLevel: Display: Creating online subsystem for client :Context_12
+[2024.12.09-11.21.07:843][314]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.12.09-11.21.07:874][315]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio
+[2024.12.09-11.21.07:877][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003488s)
+[2024.12.09-11.21.07:879][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TestGroundsNelio.TestGroundsNelio to /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio (0.003522s)
+[2024.12.09-11.21.07:895][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.12.09-11.21.07:896][315]LogChaosDD: Creating Chaos Debug Draw Scene for world TestGroundsNelio
+[2024.12.09-11.21.07:898][315]LogWorldPartition: ULevel::OnLevelLoaded(TestGroundsNelio)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.09-11.21.07:898][315]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.09-11.21.07:898][315]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.09-11.21.07:898][315]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.09-11.21.07:899][315]LogWorldPartition: Display: WorldPartition initialize took 1.231 ms (total: 165.612 ms)
+[2024.12.09-11.21.07:899][315]LogPlayLevel: PIE: World Init took: (0.002594s)
+[2024.12.09-11.21.07:900][315]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.12.09-11.21.07:900][315]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.09-11.21.07:900][315]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.09-11.21.07:900][315]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.09-11.21.07:900][315]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.09-11.21.07:900][315]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.09-11.21.07:900][315]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.09-11.21.07:900][315]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.09-11.21.07:900][315]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.09-11.21.07:900][315]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.09-11.21.07:900][315]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.09-11.21.07:900][315]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.09-11.21.07:901][315]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.09-11.21.07:919][315]LogAudioMixer: Display: Using Audio Hardware Device Lautsprecher (Sound Blaster Z)
+[2024.12.09-11.21.07:919][315]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.09-11.21.07:919][315]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.09-11.21.07:919][315]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.09-11.21.07:921][315]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.12.09-11.21.07:921][315]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=6
+[2024.12.09-11.21.07:923][315]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.12.09-11.21.07:923][315]LogInit: FAudioDevice initialized with ID 6.
+[2024.12.09-11.21.07:923][315]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.12.09-11.21.07:923][315]LogAudio: Display: Audio Device (ID: 6) registered with world 'TestGroundsNelio'.
+[2024.12.09-11.21.07:923][315]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.12.09-11.21.07:950][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-11.21.07:950][315]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.12.09-11.21.07:952][315]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio up for play (max tick rate 0) at 2024.12.09-12.21.07
+[2024.12.09-11.21.07:952][315]LogWorld: Bringing up level for play took: 0.001653
+[2024.12.09-11.21.07:952][315]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.12.09-11.21.07:952][315]LogGameMode: Login: Couldn't spawn player controller of class NULL
+[2024.12.09-11.21.07:952][315]LogSpawn: Warning: Login failed: Failed to spawn player controller
+[2024.12.09-11.21.10:686][315]LogSlate: Window 'Message' being destroyed
+[2024.12.09-11.21.10:689][315]Message dialog closed, result: Ok, title: Message, text: Couldn't spawn player: Failed to spawn player controller
+[2024.12.09-11.21.10:689][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-11.21.10:689][315]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio
+[2024.12.09-11.21.10:689][315]LogSlate: Window 'FrogFu Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.09-11.21.10:695][315]LogWorld: UWorld::CleanupWorld for TestGroundsNelio, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-11.21.10:695][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-11.21.10:695][315]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio
+[2024.12.09-11.21.10:697][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.09-11.21.10:702][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-11.21.10:720][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-11.21.10:720][315]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.12.09-11.21.10:720][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.12.09-11.21.10:722][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.12.09-11.21.10:728][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.12.09-11.21.10:742][315]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2517.745117
+[2024.12.09-11.21.10:778][316]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.12.09-11.21.10:944][334]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.09-11.21.10:944][334]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2517.940674, Update Interval: 337.307037
+[2024.12.09-11.21.23:723][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.12.09-11.21.24:700][216]LogSlate: Window 'Save Content' being destroyed
+[2024.12.09-11.21.24:707][216]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-11.21.24:726][216]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2024.12.09-11.21.24:805][216]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2024.12.09-11.21.24:805][216]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2024.12.09-11.21.24:805][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2024.12.09-11.21.24:810][216]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2024.12.09-11.21.24:811][216]LogSavePackage: Moving '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Saved/BP_TopDownCharacterA59807F04B2728CE0C3FDE998C33A89B.tmp' to '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2024.12.09-11.21.24:811][216]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownGameMode] ([2] browsable assets)...
+[2024.12.09-11.21.24:811][216]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownGameMode]
+[2024.12.09-11.21.24:811][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownGameMode" FILE="../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset" SILENT=true
+[2024.12.09-11.21.24:813][216]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownGameMode
+[2024.12.09-11.21.24:813][216]LogSavePackage: Moving '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Saved/BP_TopDownGameMode6C0A05AF4223A22BF1D085B1A5CEB0EC.tmp' to '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset'
+[2024.12.09-11.21.24:819][216]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.815 ms (total: 957.472 ms)
+[2024.12.09-11.21.24:850][216]LogContentValidation: Display: Starting to validate 2 assets
+[2024.12.09-11.21.24:850][216]LogContentValidation: Enabled validators:
+[2024.12.09-11.21.24:850][216]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.09-11.21.24:851][216]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-11.21.24:851][216]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-11.21.24:851][216]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.09-11.21.24:851][216]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-11.21.24:851][216]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.09-11.21.24:851][216]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2024.12.09-11.21.24:851][216]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownGameMode Validating asset
+[2024.12.09-11.21.32:827][ 91]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.12.09-11.22.21:490][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.12.09-11.22.22:621][829]LogSlate: Window 'Save Content' being destroyed
+[2024.12.09-11.22.22:628][829]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-11.22.22:659][829]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownGameMode] ([2] browsable assets)...
+[2024.12.09-11.22.22:659][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownGameMode]
+[2024.12.09-11.22.22:659][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownGameMode" FILE="../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset" SILENT=true
+[2024.12.09-11.22.22:660][829]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownGameMode
+[2024.12.09-11.22.22:661][829]LogSavePackage: Moving '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Saved/BP_TopDownGameModeB10DB53C4CAABB208716DF9EBD6B906E.tmp' to '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset'
+[2024.12.09-11.22.22:667][829]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.633 ms (total: 996.106 ms)
+[2024.12.09-11.22.22:700][829]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-11.22.22:700][829]LogContentValidation: Enabled validators:
+[2024.12.09-11.22.22:700][829]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.09-11.22.22:700][829]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-11.22.22:700][829]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-11.22.22:700][829]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.09-11.22.22:700][829]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-11.22.22:700][829]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.09-11.22.22:700][829]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownGameMode Validating asset
+[2024.12.09-11.22.25:895][186]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.09-11.22.25:898][186]LogContentBundle: [TestGroundsNelio(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.09-11.22.25:899][186]LogWorldPartition: Display: GenerateStreaming for 'TestGroundsNelio' started...
+[2024.12.09-11.22.25:900][186]LogWorldPartition: Display: GenerateStreaming for 'TestGroundsNelio' took 1.481 ms (total: 31.868 ms)
+[2024.12.09-11.22.25:900][186]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.09-11.22.25:900][186]LogPlayLevel: Display: Creating online subsystem for client :Context_13
+[2024.12.09-11.22.25:903][186]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.12.09-11.22.25:923][187]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio
+[2024.12.09-11.22.25:926][187]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003500s)
+[2024.12.09-11.22.25:926][187]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TestGroundsNelio.TestGroundsNelio to /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio (0.003534s)
+[2024.12.09-11.22.25:945][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.12.09-11.22.25:948][187]LogChaosDD: Creating Chaos Debug Draw Scene for world TestGroundsNelio
+[2024.12.09-11.22.25:949][187]LogWorldPartition: ULevel::OnLevelLoaded(TestGroundsNelio)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.09-11.22.25:949][187]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.09-11.22.25:949][187]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.09-11.22.25:949][187]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.09-11.22.25:950][187]LogWorldPartition: Display: WorldPartition initialize took 1.300 ms (total: 166.912 ms)
+[2024.12.09-11.22.25:950][187]LogPlayLevel: PIE: World Init took: (0.002652s)
+[2024.12.09-11.22.25:951][187]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.12.09-11.22.25:951][187]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.09-11.22.25:951][187]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.09-11.22.25:951][187]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.09-11.22.25:951][187]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.09-11.22.25:951][187]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.09-11.22.25:951][187]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.09-11.22.25:951][187]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.09-11.22.25:951][187]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.09-11.22.25:951][187]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.09-11.22.25:951][187]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.09-11.22.25:951][187]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.09-11.22.25:953][187]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.09-11.22.25:971][187]LogAudioMixer: Display: Using Audio Hardware Device Lautsprecher (Sound Blaster Z)
+[2024.12.09-11.22.25:971][187]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.09-11.22.25:971][187]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.09-11.22.25:971][187]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.09-11.22.25:972][187]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.12.09-11.22.25:972][187]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=7
+[2024.12.09-11.22.25:974][187]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.12.09-11.22.25:974][187]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.12.09-11.22.25:974][187]LogInit: FAudioDevice initialized with ID 7.
+[2024.12.09-11.22.25:974][187]LogAudio: Display: Audio Device (ID: 7) registered with world 'TestGroundsNelio'.
+[2024.12.09-11.22.25:974][187]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.12.09-11.22.25:977][187]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.12.09-11.22.25:978][187]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio up for play (max tick rate 0) at 2024.12.09-12.22.25
+[2024.12.09-11.22.25:979][187]LogWorld: Bringing up level for play took: 0.001656
+[2024.12.09-11.22.25:984][187]PIE: Server logged in
+[2024.12.09-11.22.25:984][187]PIE: Play in editor total start time 0.086 seconds.
+[2024.12.09-11.22.34:084][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-11.22.34:084][ 85]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio
+[2024.12.09-11.22.34:084][ 85]LogWorld: UWorld::CleanupWorld for TestGroundsNelio, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-11.22.34:085][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-11.22.34:085][ 85]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio
+[2024.12.09-11.22.34:088][ 85]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.09-11.22.34:092][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-11.22.34:111][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-11.22.34:112][ 85]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.12.09-11.22.34:112][ 85]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.12.09-11.22.34:113][ 85]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.12.09-11.22.34:120][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.12.09-11.22.34:170][ 86]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.12.09-11.23.01:605][292]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-11.23.01:632][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2024.12.09-11.23.01:704][292]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2024.12.09-11.23.01:704][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2024.12.09-11.23.01:704][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2024.12.09-11.23.01:711][292]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2024.12.09-11.23.01:712][292]LogSavePackage: Moving '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Saved/BP_TopDownCharacterD6B8F7794E06072F011705A46ECA33E9.tmp' to '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2024.12.09-11.23.01:718][292]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.772 ms (total: 1.10 sec)
+[2024.12.09-11.23.01:744][292]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-11.23.01:744][292]LogContentValidation: Enabled validators:
+[2024.12.09-11.23.01:744][292]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.09-11.23.01:744][292]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-11.23.01:744][292]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-11.23.01:744][292]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.09-11.23.01:744][292]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-11.23.01:744][292]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.09-11.23.01:744][292]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2024.12.09-11.23.04:409][611]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.09-11.23.04:412][611]LogContentBundle: [TestGroundsNelio(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.09-11.23.04:412][611]LogWorldPartition: Display: GenerateStreaming for 'TestGroundsNelio' started...
+[2024.12.09-11.23.04:413][611]LogWorldPartition: Display: GenerateStreaming for 'TestGroundsNelio' took 1.531 ms (total: 33.399 ms)
+[2024.12.09-11.23.04:414][611]LogPlayLevel: [PlayLevel] Compiling BP_TopDownCharacter before play...
+[2024.12.09-11.23.04:478][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.12.09-11.23.04:482][611]LogPlayLevel: PlayLevel: Blueprint regeneration took 68 ms (1 blueprints)
+[2024.12.09-11.23.04:482][611]LogPlayLevel: Display: Creating online subsystem for client :Context_14
+[2024.12.09-11.23.04:483][611]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.12.09-11.23.04:528][612]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio
+[2024.12.09-11.23.04:532][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003924s)
+[2024.12.09-11.23.04:532][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TestGroundsNelio.TestGroundsNelio to /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio (0.003958s)
+[2024.12.09-11.23.04:547][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.12.09-11.23.04:549][612]LogChaosDD: Creating Chaos Debug Draw Scene for world TestGroundsNelio
+[2024.12.09-11.23.04:550][612]LogWorldPartition: ULevel::OnLevelLoaded(TestGroundsNelio)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.09-11.23.04:550][612]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.09-11.23.04:550][612]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.09-11.23.04:550][612]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.09-11.23.04:551][612]LogWorldPartition: Display: WorldPartition initialize took 1.237 ms (total: 168.150 ms)
+[2024.12.09-11.23.04:551][612]LogPlayLevel: PIE: World Init took: (0.002609s)
+[2024.12.09-11.23.04:552][612]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.12.09-11.23.04:552][612]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.09-11.23.04:552][612]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.09-11.23.04:552][612]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.09-11.23.04:552][612]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.09-11.23.04:552][612]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.09-11.23.04:552][612]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.09-11.23.04:552][612]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.09-11.23.04:552][612]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.09-11.23.04:552][612]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.09-11.23.04:552][612]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.09-11.23.04:552][612]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.09-11.23.04:555][612]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.09-11.23.04:572][612]LogAudioMixer: Display: Using Audio Hardware Device Lautsprecher (Sound Blaster Z)
+[2024.12.09-11.23.04:572][612]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.09-11.23.04:572][612]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.09-11.23.04:572][612]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.09-11.23.04:573][612]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.12.09-11.23.04:573][612]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=8
+[2024.12.09-11.23.04:575][612]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.12.09-11.23.04:575][612]LogInit: FAudioDevice initialized with ID 8.
+[2024.12.09-11.23.04:575][612]LogAudio: Display: Audio Device (ID: 8) registered with world 'TestGroundsNelio'.
+[2024.12.09-11.23.04:575][612]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.12.09-11.23.04:575][612]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.12.09-11.23.04:600][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-11.23.04:600][612]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.12.09-11.23.04:602][612]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio up for play (max tick rate 0) at 2024.12.09-12.23.04
+[2024.12.09-11.23.04:602][612]LogWorld: Bringing up level for play took: 0.001629
+[2024.12.09-11.23.04:606][612]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2024.12.09-11.23.04:608][612]PIE: Server logged in
+[2024.12.09-11.23.04:609][612]PIE: Play in editor total start time 0.198 seconds.
+[2024.12.09-11.23.09:157][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-11.23.09:157][105]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio
+[2024.12.09-11.23.09:157][105]LogSlate: Window 'FrogFu Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.09-11.23.09:162][105]LogWorld: UWorld::CleanupWorld for TestGroundsNelio, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-11.23.09:162][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-11.23.09:162][105]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio
+[2024.12.09-11.23.09:164][105]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.09-11.23.09:168][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-11.23.09:189][105]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.12.09-11.23.09:189][105]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.12.09-11.23.09:191][105]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.12.09-11.23.09:197][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.12.09-11.23.09:249][106]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.12.09-11.24.52:268][995]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.09-11.24.52:271][995]LogContentBundle: [TestGroundsNelio(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.09-11.24.52:271][995]LogWorldPartition: Display: GenerateStreaming for 'TestGroundsNelio' started...
+[2024.12.09-11.24.52:272][995]LogWorldPartition: Display: GenerateStreaming for 'TestGroundsNelio' took 1.675 ms (total: 35.074 ms)
+[2024.12.09-11.24.52:272][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.09-11.24.52:301][995]LogPlayLevel: Display: Creating online subsystem for client :Context_15
+[2024.12.09-11.24.52:303][995]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.12.09-11.24.52:326][996]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio
+[2024.12.09-11.24.52:329][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003477s)
+[2024.12.09-11.24.52:329][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TestGroundsNelio.TestGroundsNelio to /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio (0.003515s)
+[2024.12.09-11.24.52:348][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.12.09-11.24.52:353][996]LogChaosDD: Creating Chaos Debug Draw Scene for world TestGroundsNelio
+[2024.12.09-11.24.52:354][996]LogWorldPartition: ULevel::OnLevelLoaded(TestGroundsNelio)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.09-11.24.52:354][996]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.09-11.24.52:354][996]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.09-11.24.52:354][996]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.09-11.24.52:355][996]LogWorldPartition: Display: WorldPartition initialize took 1.281 ms (total: 169.432 ms)
+[2024.12.09-11.24.52:355][996]LogPlayLevel: PIE: World Init took: (0.002751s)
+[2024.12.09-11.24.52:356][996]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.12.09-11.24.52:356][996]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.09-11.24.52:356][996]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.09-11.24.52:356][996]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.09-11.24.52:356][996]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.09-11.24.52:356][996]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.09-11.24.52:356][996]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.09-11.24.52:356][996]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.09-11.24.52:356][996]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.09-11.24.52:356][996]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.09-11.24.52:356][996]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.09-11.24.52:356][996]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.09-11.24.52:358][996]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.09-11.24.52:376][996]LogAudioMixer: Display: Using Audio Hardware Device Lautsprecher (Sound Blaster Z)
+[2024.12.09-11.24.52:376][996]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.09-11.24.52:376][996]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.09-11.24.52:376][996]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.09-11.24.52:377][996]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.12.09-11.24.52:377][996]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=9
+[2024.12.09-11.24.52:379][996]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.12.09-11.24.52:379][996]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.12.09-11.24.52:379][996]LogInit: FAudioDevice initialized with ID 9.
+[2024.12.09-11.24.52:379][996]LogAudio: Display: Audio Device (ID: 9) registered with world 'TestGroundsNelio'.
+[2024.12.09-11.24.52:379][996]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.12.09-11.24.52:381][996]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.12.09-11.24.52:383][996]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio up for play (max tick rate 0) at 2024.12.09-12.24.52
+[2024.12.09-11.24.52:383][996]LogWorld: Bringing up level for play took: 0.001512
+[2024.12.09-11.24.52:387][996]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2024.12.09-11.24.52:387][996]PIE: Server logged in
+[2024.12.09-11.24.52:388][996]PIE: Play in editor total start time 0.117 seconds.
+[2024.12.09-11.24.56:492][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-11.24.56:492][464]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio
+[2024.12.09-11.24.56:492][464]LogWorld: UWorld::CleanupWorld for TestGroundsNelio, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-11.24.56:492][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-11.24.56:492][464]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio
+[2024.12.09-11.24.56:495][464]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.09-11.24.56:499][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-11.24.56:519][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-11.24.56:519][464]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.12.09-11.24.56:519][464]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.12.09-11.24.56:521][464]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.12.09-11.24.56:528][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.12.09-11.24.56:596][465]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.12.09-11.25.09:762][983]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/TopDown/Input/IMC_Default.IMC_Default
+[2024.12.09-11.26.27:889][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.12.09-11.26.27:890][767]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TestGroundsNelio' took 0.040
+[2024.12.09-11.26.27:891][767]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2024.12.09-11.26.27:963][767]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2024.12.09-11.26.27:963][767]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2024.12.09-11.26.27:970][767]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/BP_TopDownCharacter_Auto2
+[2024.12.09-11.26.27:970][767]LogSavePackage: Moving '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Saved/BP_TopDownCharacter_Auto2C477CA71443265C2DB8BA9A8C8A24F43.tmp' to '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Saved/Autosaves/Game/TopDown/Blueprints/BP_TopDownCharacter_Auto2.uasset'
+[2024.12.09-11.26.27:970][767]LogFileHelpers: Auto-saving content packages took 0.080
+[2024.12.09-11.27.27:502][946]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2894.495117
+[2024.12.09-11.27.28:502][949]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.09-11.27.28:502][949]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2895.161865, Update Interval: 325.307770
+[2024.12.09-11.28.56:993][344]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.09-11.28.56:997][344]LogContentBundle: [TestGroundsNelio(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.09-11.28.56:997][344]LogWorldPartition: Display: GenerateStreaming for 'TestGroundsNelio' started...
+[2024.12.09-11.28.56:998][344]LogWorldPartition: Display: GenerateStreaming for 'TestGroundsNelio' took 1.502 ms (total: 36.577 ms)
+[2024.12.09-11.28.56:999][344]LogPlayLevel: [PlayLevel] Compiling BP_TopDownCharacter before play...
+[2024.12.09-11.28.57:061][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.12.09-11.28.57:063][344]LogPlayLevel: PlayLevel: Blueprint regeneration took 65 ms (1 blueprints)
+[2024.12.09-11.28.57:063][344]LogPlayLevel: Display: Creating online subsystem for client :Context_16
+[2024.12.09-11.28.57:065][344]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.12.09-11.28.57:102][345]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio
+[2024.12.09-11.28.57:106][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003497s)
+[2024.12.09-11.28.57:106][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TestGroundsNelio.TestGroundsNelio to /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio (0.003532s)
+[2024.12.09-11.28.57:124][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.12.09-11.28.57:126][345]LogChaosDD: Creating Chaos Debug Draw Scene for world TestGroundsNelio
+[2024.12.09-11.28.57:127][345]LogWorldPartition: ULevel::OnLevelLoaded(TestGroundsNelio)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.09-11.28.57:127][345]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.09-11.28.57:127][345]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.09-11.28.57:127][345]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.09-11.28.57:128][345]LogWorldPartition: Display: WorldPartition initialize took 1.208 ms (total: 170.641 ms)
+[2024.12.09-11.28.57:128][345]LogPlayLevel: PIE: World Init took: (0.002609s)
+[2024.12.09-11.28.57:129][345]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.12.09-11.28.57:129][345]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.09-11.28.57:129][345]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.09-11.28.57:129][345]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.09-11.28.57:129][345]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.09-11.28.57:129][345]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.09-11.28.57:129][345]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.09-11.28.57:129][345]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.09-11.28.57:129][345]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.09-11.28.57:129][345]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.09-11.28.57:129][345]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.09-11.28.57:129][345]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.09-11.28.57:131][345]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.09-11.28.57:149][345]LogAudioMixer: Display: Using Audio Hardware Device Lautsprecher (Sound Blaster Z)
+[2024.12.09-11.28.57:149][345]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.09-11.28.57:149][345]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.09-11.28.57:149][345]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.09-11.28.57:150][345]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.12.09-11.28.57:150][345]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=10
+[2024.12.09-11.28.57:152][345]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.12.09-11.28.57:152][345]LogInit: FAudioDevice initialized with ID 10.
+[2024.12.09-11.28.57:152][345]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.12.09-11.28.57:152][345]LogAudio: Display: Audio Device (ID: 10) registered with world 'TestGroundsNelio'.
+[2024.12.09-11.28.57:152][345]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.12.09-11.28.57:179][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-11.28.57:180][345]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.12.09-11.28.57:181][345]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio up for play (max tick rate 0) at 2024.12.09-12.28.57
+[2024.12.09-11.28.57:181][345]LogWorld: Bringing up level for play took: 0.001782
+[2024.12.09-11.28.57:188][345]PIE: Server logged in
+[2024.12.09-11.28.57:189][345]PIE: Play in editor total start time 0.192 seconds.
+[2024.12.09-11.28.59:193][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-11.28.59:193][537]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio
+[2024.12.09-11.28.59:194][537]LogSlate: Window 'FrogFu Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.09-11.28.59:198][537]LogWorld: UWorld::CleanupWorld for TestGroundsNelio, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-11.28.59:199][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-11.28.59:199][537]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio
+[2024.12.09-11.28.59:201][537]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.09-11.28.59:205][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-11.28.59:225][537]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.12.09-11.28.59:225][537]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.12.09-11.28.59:227][537]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.12.09-11.28.59:233][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.12.09-11.28.59:284][538]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.12.09-11.29.04:238][131]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.09-11.29.04:243][131]LogContentBundle: [TestGroundsNelio(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.09-11.29.04:243][131]LogWorldPartition: Display: GenerateStreaming for 'TestGroundsNelio' started...
+[2024.12.09-11.29.04:244][131]LogWorldPartition: Display: GenerateStreaming for 'TestGroundsNelio' took 1.551 ms (total: 38.128 ms)
+[2024.12.09-11.29.04:244][131]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.09-11.29.04:244][131]LogPlayLevel: Display: Creating online subsystem for client :Context_17
+[2024.12.09-11.29.04:246][131]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.12.09-11.29.04:252][132]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio
+[2024.12.09-11.29.04:257][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003360s)
+[2024.12.09-11.29.04:257][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TestGroundsNelio.TestGroundsNelio to /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio (0.003392s)
+[2024.12.09-11.29.04:275][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.12.09-11.29.04:276][132]LogChaosDD: Creating Chaos Debug Draw Scene for world TestGroundsNelio
+[2024.12.09-11.29.04:278][132]LogWorldPartition: ULevel::OnLevelLoaded(TestGroundsNelio)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.09-11.29.04:278][132]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.09-11.29.04:278][132]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.09-11.29.04:278][132]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.09-11.29.04:279][132]LogWorldPartition: Display: WorldPartition initialize took 1.236 ms (total: 171.877 ms)
+[2024.12.09-11.29.04:279][132]LogPlayLevel: PIE: World Init took: (0.002575s)
+[2024.12.09-11.29.04:280][132]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.12.09-11.29.04:280][132]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.09-11.29.04:280][132]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.09-11.29.04:280][132]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.09-11.29.04:280][132]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.09-11.29.04:280][132]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.09-11.29.04:280][132]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.09-11.29.04:280][132]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.09-11.29.04:280][132]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.09-11.29.04:280][132]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.09-11.29.04:280][132]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.09-11.29.04:280][132]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.09-11.29.04:281][132]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.09-11.29.04:298][132]LogAudioMixer: Display: Using Audio Hardware Device Lautsprecher (Sound Blaster Z)
+[2024.12.09-11.29.04:299][132]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.09-11.29.04:299][132]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.09-11.29.04:299][132]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.09-11.29.04:299][132]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.12.09-11.29.04:299][132]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=11
+[2024.12.09-11.29.04:301][132]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.12.09-11.29.04:301][132]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.12.09-11.29.04:301][132]LogInit: FAudioDevice initialized with ID 11.
+[2024.12.09-11.29.04:301][132]LogAudio: Display: Audio Device (ID: 11) registered with world 'TestGroundsNelio'.
+[2024.12.09-11.29.04:301][132]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.12.09-11.29.04:330][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-11.29.04:330][132]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.12.09-11.29.04:332][132]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio up for play (max tick rate 0) at 2024.12.09-12.29.04
+[2024.12.09-11.29.04:332][132]LogWorld: Bringing up level for play took: 0.001768
+[2024.12.09-11.29.04:338][132]PIE: Server logged in
+[2024.12.09-11.29.04:339][132]PIE: Play in editor total start time 0.097 seconds.
+[2024.12.09-11.29.13:343][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-11.29.13:344][ 97]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio
+[2024.12.09-11.29.13:344][ 97]LogSlate: Window 'FrogFu Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.09-11.29.13:348][ 97]LogWorld: UWorld::CleanupWorld for TestGroundsNelio, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-11.29.13:349][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-11.29.13:349][ 97]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TestGroundsNelio.TestGroundsNelio
+[2024.12.09-11.29.13:351][ 97]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.09-11.29.13:357][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-11.29.13:375][ 97]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.12.09-11.29.13:376][ 97]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.12.09-11.29.13:377][ 97]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.12.09-11.29.13:384][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.12.09-11.29.13:435][ 98]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.12.09-11.29.14:462][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-11.29.14:490][221]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2024.12.09-11.29.14:558][221]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2024.12.09-11.29.14:558][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2024.12.09-11.29.14:558][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2024.12.09-11.29.14:564][221]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2024.12.09-11.29.14:565][221]LogSavePackage: Moving '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Saved/BP_TopDownCharacter782F5A3940088054F5A34F87A82335AA.tmp' to '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2024.12.09-11.29.14:574][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.016 ms (total: 1.21 sec)
+[2024.12.09-11.29.14:601][221]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-11.29.14:601][221]LogContentValidation: Enabled validators:
+[2024.12.09-11.29.14:601][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.09-11.29.14:601][221]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-11.29.14:601][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-11.29.14:601][221]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.09-11.29.14:601][221]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-11.29.14:601][221]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.09-11.29.14:601][221]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
