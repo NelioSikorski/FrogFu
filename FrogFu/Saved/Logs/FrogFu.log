@@ -1784,3 +1784,204 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.09-10.41.16:969][ 79]LogContentBrowser: Attempting asset rename: NewWorld -> Vincent
 [2024.12.09-10.41.16:970][ 79]LogChaosDD: Creating Chaos Debug Draw Scene for world Vincent
 [2024.12.09-10.41.16:973][ 79]LogContentBrowser: End creating deferred item NewWorld
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: ================================================
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: Total job queries 11,612, among them cache hits 11 (0.09%), DDC hits 0 (0.00%), Duplicates 2,677 (23.05%)
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: Tracking 8,924 distinct input hashes that result in 8,437 distinct outputs (94.54%)
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: RAM used: 6.34 MiB of 1.60 GiB budget. Usage: 0.39%
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: Shaders Compiled: 8,924
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: Jobs assigned 8,924, completed 8,924 (100%)
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: Average time worker was idle: 0.22 s
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: Time job spent in pending queue: average 202.71 s, longest 433.99 s
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: Job execution time: average 4.01 s, max 83.71 s
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: Job life time (pending + execution): average 206.72 s, max 434.43
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: Shader code size: average 14.337 KiB, min 1.16 KiB, max 330.049 KiB
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 465.56 s
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.18%
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: Jobs were issued in 978 batches (only local compilation was used), average 9.12 jobs/batch
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: Average processing rate: 19.17 jobs/sec
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: Total thread time: 3,600.346 s
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: Total thread preprocess time: 102.931 s
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: Percentage time preprocessing: 2.86%
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: Effective parallelization: 7.73 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 15.62 sec, max 53.67 sec, min 0.81 sec)
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 11.08 sec, max 11.08 sec, min 11.08 sec)
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 6.11 sec, max 7.07 sec, min 3.82 sec)
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display:                                            FGBufferPickingCS (compiled    1 times, average 2.63 sec, max 2.63 sec, min 2.63 sec)
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled   32 times, average 2.59 sec, max 5.11 sec, min 0.95 sec)
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.69% of total time (compiled  454 times, average 1.01 sec, max 1.44 sec, min 0.77 sec)
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 11.72% of total time (compiled   27 times, average 15.62 sec, max 53.67 sec, min 0.81 sec)
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 9.99% of total time (compiled  260 times, average 1.38 sec, max 3.39 sec, min 0.00 sec)
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 5.57% of total time (compiled  480 times, average 0.42 sec, max 0.70 sec, min 0.18 sec)
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 4.27% of total time (compiled   72 times, average 2.13 sec, max 4.53 sec, min 1.38 sec)
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: === Material stats ===
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: Materials Translated:    134
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: Material Translation Only: 0.04 s (49%)
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2024.12.09-10.42.27:915][981]LogShaderCompilers: Display: ================================================
+[2024.12.09-10.45.14:815][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 361.827240
+[2024.12.09-10.45.14:964][ 20]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.09-10.45.14:964][ 20]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 361.968903, Update Interval: 359.119232
+[2024.12.09-10.51.16:405][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.12.09-10.51.16:407][ 55]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.014
+[2024.12.09-10.51.18:033][249]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 725.043640
+[2024.12.09-10.51.18:191][268]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.09-10.51.18:191][268]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 725.193726, Update Interval: 328.160645
+[2024.12.09-10.51.41:500][  6]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.09-10.51.41:503][  6]LogContentBundle: [TestGroundsNelio(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.09-10.51.41:503][  6]LogWorldPartition: Display: GenerateStreaming for 'TestGroundsNelio' started...
+[2024.12.09-10.51.41:505][  6]LogStreaming: Display: FlushAsyncLoading(390): 39 QueuedPackages, 0 AsyncPackages
+[2024.12.09-10.51.41:517][  6]LogWorldPartition: Display: GenerateStreaming for 'TestGroundsNelio' took 14.224 ms (total: 21.410 ms)
+[2024.12.09-10.51.41:517][  6]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.09-10.51.41:517][  6]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.12.09-10.51.41:518][  6]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 1.428 ms (total: 22.838 ms)
+[2024.12.09-10.51.41:519][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.09-10.51.41:519][  6]LogPlayLevel: Display: Creating online subsystem for client :Context_2
+[2024.12.09-10.51.41:521][  6]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2024.12.09-10.51.41:540][  7]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.12.09-10.51.41:544][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004158s)
+[2024.12.09-10.51.41:544][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.004195s)
+[2024.12.09-10.51.41:553][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.12.09-10.51.41:554][  7]LogChaosDD: Creating Chaos Debug Draw Scene for world TopDownMap
+[2024.12.09-10.51.41:556][  7]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.09-10.51.41:556][  7]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.09-10.51.41:556][  7]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.09-10.51.41:556][  7]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.09-10.51.41:557][  7]LogWorldPartition: Display: WorldPartition initialize took 1.340 ms (total: 97.197 ms)
+[2024.12.09-10.51.41:557][  7]LogPlayLevel: PIE: World Init took: (0.002829s)
+[2024.12.09-10.51.41:558][  7]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.12.09-10.51.41:558][  7]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.09-10.51.41:558][  7]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.09-10.51.41:558][  7]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.09-10.51.41:558][  7]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.09-10.51.41:558][  7]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.09-10.51.41:558][  7]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.09-10.51.41:558][  7]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.09-10.51.41:558][  7]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.09-10.51.41:558][  7]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.09-10.51.41:558][  7]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.09-10.51.41:558][  7]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.09-10.51.41:560][  7]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.09-10.51.41:579][  7]LogAudioMixer: Display: Using Audio Hardware Device Lautsprecher (Sound Blaster Z)
+[2024.12.09-10.51.41:580][  7]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.09-10.51.41:580][  7]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.09-10.51.41:580][  7]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.09-10.51.41:581][  7]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.12.09-10.51.41:581][  7]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=3
+[2024.12.09-10.51.41:582][  7]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.12.09-10.51.41:582][  7]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.12.09-10.51.41:582][  7]LogInit: FAudioDevice initialized with ID 3.
+[2024.12.09-10.51.41:582][  7]LogAudio: Display: Audio Device (ID: 3) registered with world 'TopDownMap'.
+[2024.12.09-10.51.41:582][  7]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.12.09-10.51.41:585][  7]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.12.09-10.51.41:587][  7]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2024.12.09-11.51.41
+[2024.12.09-10.51.41:587][  7]LogWorld: Bringing up level for play took: 0.001620
+[2024.12.09-10.51.41:591][  7]PIE: Server logged in
+[2024.12.09-10.51.41:592][  7]PIE: Play in editor total start time 0.089 seconds.
+[2024.12.09-10.54.10:921][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-10.54.10:921][541]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.12.09-10.54.10:921][541]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-10.54.10:921][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-10.54.10:921][541]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap
+[2024.12.09-10.54.10:925][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.09-10.54.10:927][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-10.54.10:935][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-10.54.10:936][541]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.12.09-10.54.10:936][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.12.09-10.54.10:938][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.12.09-10.54.10:945][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.12.09-10.54.10:991][544]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2024.12.09-10.54.20:677][670]LogChaosDD: Creating Chaos Debug Draw Scene for world World_0
+[2024.12.09-10.54.22:274][811]LogChaosDD: Creating Chaos Debug Draw Scene for world World_1
+[2024.12.09-10.54.28:255][500]LogShaderCompilers: Display: ================================================
+[2024.12.09-10.54.28:255][500]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.09-10.54.28:255][500]LogShaderCompilers: Display: Total job queries 11,622, among them cache hits 11 (0.09%), DDC hits 0 (0.00%), Duplicates 2,682 (23.08%)
+[2024.12.09-10.54.28:255][500]LogShaderCompilers: Display: Tracking 8,929 distinct input hashes that result in 8,440 distinct outputs (94.52%)
+[2024.12.09-10.54.28:255][500]LogShaderCompilers: Display: RAM used: 6.35 MiB of 1.60 GiB budget. Usage: 0.39%
+[2024.12.09-10.54.28:255][500]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.09-10.54.28:255][500]LogShaderCompilers: Display: Shaders Compiled: 8,929
+[2024.12.09-10.54.28:255][500]LogShaderCompilers: Display: Jobs assigned 8,929, completed 8,929 (100%)
+[2024.12.09-10.54.28:255][500]LogShaderCompilers: Display: Average time worker was idle: 4.69 s
+[2024.12.09-10.54.28:255][500]LogShaderCompilers: Display: Time job spent in pending queue: average 202.59 s, longest 433.99 s
+[2024.12.09-10.54.28:255][500]LogShaderCompilers: Display: Job execution time: average 4.01 s, max 83.71 s
+[2024.12.09-10.54.28:255][500]LogShaderCompilers: Display: Job life time (pending + execution): average 206.61 s, max 434.43
+[2024.12.09-10.54.28:255][500]LogShaderCompilers: Display: Shader code size: average 14.333 KiB, min 1.16 KiB, max 330.049 KiB
+[2024.12.09-10.54.28:255][500]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 467.07 s
+[2024.12.09-10.54.28:255][500]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.18%
+[2024.12.09-10.54.28:255][500]LogShaderCompilers: Display: Jobs were issued in 983 batches (only local compilation was used), average 9.08 jobs/batch
+[2024.12.09-10.54.28:255][500]LogShaderCompilers: Display: Average processing rate: 19.12 jobs/sec
+[2024.12.09-10.54.28:255][500]LogShaderCompilers: Display: Total thread time: 3,602.774 s
+[2024.12.09-10.54.28:255][500]LogShaderCompilers: Display: Total thread preprocess time: 103.058 s
+[2024.12.09-10.54.28:255][500]LogShaderCompilers: Display: Percentage time preprocessing: 2.86%
+[2024.12.09-10.54.28:255][500]LogShaderCompilers: Display: Effective parallelization: 7.71 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.09-10.54.28:255][500]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.09-10.54.28:255][500]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 15.62 sec, max 53.67 sec, min 0.81 sec)
+[2024.12.09-10.54.28:256][500]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 11.08 sec, max 11.08 sec, min 11.08 sec)
+[2024.12.09-10.54.28:256][500]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 6.11 sec, max 7.07 sec, min 3.82 sec)
+[2024.12.09-10.54.28:256][500]LogShaderCompilers: Display:                                            FGBufferPickingCS (compiled    1 times, average 2.63 sec, max 2.63 sec, min 2.63 sec)
+[2024.12.09-10.54.28:256][500]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled   32 times, average 2.59 sec, max 5.11 sec, min 0.95 sec)
+[2024.12.09-10.54.28:256][500]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.09-10.54.28:256][500]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.68% of total time (compiled  454 times, average 1.01 sec, max 1.44 sec, min 0.77 sec)
+[2024.12.09-10.54.28:256][500]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 11.71% of total time (compiled   27 times, average 15.62 sec, max 53.67 sec, min 0.81 sec)
+[2024.12.09-10.54.28:256][500]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 9.99% of total time (compiled  260 times, average 1.38 sec, max 3.39 sec, min 0.00 sec)
+[2024.12.09-10.54.28:256][500]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 5.56% of total time (compiled  480 times, average 0.42 sec, max 0.70 sec, min 0.18 sec)
+[2024.12.09-10.54.28:256][500]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 4.26% of total time (compiled   72 times, average 2.13 sec, max 4.53 sec, min 1.38 sec)
+[2024.12.09-10.54.28:256][500]LogShaderCompilers: Display: === Material stats ===
+[2024.12.09-10.54.28:256][500]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.09-10.54.28:256][500]LogShaderCompilers: Display: Materials Translated:    134
+[2024.12.09-10.54.28:256][500]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2024.12.09-10.54.28:256][500]LogShaderCompilers: Display: Material Translation Only: 0.04 s (49%)
+[2024.12.09-10.54.28:256][500]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2024.12.09-10.54.28:256][500]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2024.12.09-10.54.28:256][500]LogShaderCompilers: Display: ================================================
+[2024.12.09-10.54.30:284][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.12.09-10.54.32:501][737]LogSlate: Window 'Save Content' being destroyed
+[2024.12.09-10.54.32:508][737]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-10.54.32:528][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Maps/Vincent" FILE="../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Maps/Vincent.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.09-10.54.32:539][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.12.09-10.54.32:541][737]LogSavePackage: Moving output files for package: /Game/TopDown/Maps/Vincent
+[2024.12.09-10.54.32:541][737]LogSavePackage: Moving '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Saved/VincentCFC2F008401E8644D54208B619D08231.tmp' to '../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Maps/Vincent.umap'
+[2024.12.09-10.54.32:543][737]LogFileHelpers: Saving map 'Vincent' took 0.014
+[2024.12.09-10.54.32:576][737]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.594 ms (total: 278.879 ms)
+[2024.12.09-10.54.32:579][737]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TopDown/Maps/TopDownMap.TopDownMap
+[2024.12.09-10.54.32:580][737]Cmd: MAP LOAD FILE="../../../../../../WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Maps/TopDownMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.09-10.54.32:590][737]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-10.54.32:591][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-10.54.32:591][737]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/TopDownMap.TopDownMap
+[2024.12.09-10.54.32:605][737]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.09-10.54.32:609][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.12.09-10.54.32:609][737]LogWorld: UWorld::CleanupWorld for TestGroundsNelio, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-10.54.32:611][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-10.54.32:611][737]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/TestGroundsNelio.TestGroundsNelio
+[2024.12.09-10.54.32:611][737]LogWorld: UWorld::CleanupWorld for Vincent, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-10.54.32:611][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-10.54.32:621][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.12.09-10.54.32:631][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.12.09-10.54.32:631][737]LogStreaming: Display: FlushAsyncLoading(429): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.09-10.54.32:637][737]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownMap'.
+[2024.12.09-10.54.32:637][737]LogChaosDD: Creating Chaos Debug Draw Scene for world TopDownMap
+[2024.12.09-10.54.32:638][737]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.12.09-10.54.32:638][737]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.09-10.54.32:638][737]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/TopDownMap.TopDownMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.09-10.54.32:654][737]LogWorldPartition: Display: WorldPartition initialize took 15.434 ms (total: 112.632 ms)
+[2024.12.09-10.54.32:691][737]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.09-10.54.32:691][737]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2024.12.09-10.54.32:691][737]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.12.09-10.54.32:701][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.12.09-10.54.32:706][737]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.09-10.54.32:706][737]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.562ms to complete.
+[2024.12.09-10.54.32:743][737]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-10.54.32:743][737]LogContentValidation: Enabled validators:
+[2024.12.09-10.54.32:743][737]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.09-10.54.32:743][737]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-10.54.32:743][737]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-10.54.32:743][737]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.09-10.54.32:743][737]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-10.54.32:743][737]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.09-10.54.32:772][738]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.08s
