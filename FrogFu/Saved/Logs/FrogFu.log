@@ -2103,3 +2103,932 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.12.10-14.23.43:145][ 54]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2024.12.10-14.23.43:145][ 54]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3709.540039, Update Interval: 330.050354
 [2024.12.10-14.23.47:538][ 68]LogDerivedDataCache: C:/Users/vince/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.10-14.28.36:822][185]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.12.10-14.28.36:829][185]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.12.10-14.28.36:836][185]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.12.10-14.28.36:849][186]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.12.10-14.28.46:430][865]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Component_Button_Default
+[2024.12.10-14.28.46:438][865]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.12.10-14.28.48:242][996]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Components/WBP_Component_Button_Default.WBP_Component_Button_Default
+[2024.12.10-14.28.48:242][996]LogChaosDD: Creating Chaos Debug Draw Scene for world World_20
+[2024.12.10-14.28.48:253][996]LogChaosDD: Creating Chaos Debug Draw Scene for world World_21
+[2024.12.10-14.28.57:354][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.10-14.28.57:608][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.12.10-14.29.06:682][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.12.10-14.29.37:532][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.12.10-14.29.37:536][245]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UI/Components/Menu/MainMenu' took 0.030
+[2024.12.10-14.29.37:537][245]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Components/WBP_Component_Button_Default] ([2] browsable assets)...
+[2024.12.10-14.29.37:542][245]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Components/WBP_Component_Button_Default.WBP_Component_Button_Default]
+[2024.12.10-14.29.37:542][245]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Components/WBP_Component_Button_Default]
+[2024.12.10-14.29.37:547][245]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Components/WBP_Component_Button_Default_Auto3
+[2024.12.10-14.29.37:547][245]LogSavePackage: Moving 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Saved/WBP_Component_Button_Default_AutC34034C24DD90BE9AE63BBAD8BE900E9.tmp' to 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Saved/Autosaves/Game/UI/Components/WBP_Component_Button_Default_Auto3.uasset'
+[2024.12.10-14.29.37:548][245]LogFileHelpers: Auto-saving content packages took 0.012
+[2024.12.10-14.29.57:133][304]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4083.864014
+[2024.12.10-14.29.58:133][307]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.10-14.29.58:133][307]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4084.533203, Update Interval: 350.066223
+[2024.12.10-14.31.35:159][306]LogSlate: Window 'Color Picker' being destroyed
+[2024.12.10-14.31.36:097][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.12.10-14.32.02:681][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.12.10-14.32.22:394][175]LogSlate: Window 'Color Picker' being destroyed
+[2024.12.10-14.32.48:381][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.12.10-14.32.48:698][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.12.10-14.32.49:327][416]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.10-14.32.49:381][416]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Components/WBP_Component_Button_Default] ([2] browsable assets)...
+[2024.12.10-14.32.49:386][416]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Components/WBP_Component_Button_Default.WBP_Component_Button_Default]
+[2024.12.10-14.32.49:386][416]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Components/WBP_Component_Button_Default]
+[2024.12.10-14.32.49:391][416]LogSavePackage: Moving output files for package: /Game/UI/Components/WBP_Component_Button_Default
+[2024.12.10-14.32.49:391][416]LogSavePackage: Moving 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Saved/WBP_Component_Button_Default78F365A34F0854A58AEBEE89F55A6914.tmp' to 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/WBP_Component_Button_Default.uasset'
+[2024.12.10-14.32.49:411][416]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.945 ms (total: 1.82 sec)
+[2024.12.10-14.32.49:461][416]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.10-14.32.49:461][416]LogContentValidation: Enabled validators:
+[2024.12.10-14.32.49:461][416]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.10-14.32.49:461][416]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.10-14.32.49:461][416]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.10-14.32.49:461][416]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.10-14.32.49:461][416]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.10-14.32.49:461][416]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.10-14.32.49:461][416]AssetCheck: /Game/UI/Components/WBP_Component_Button_Default Validating asset
+[2024.12.10-14.33.28:949][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.12.10-14.33.29:909][162]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.10-14.33.29:961][162]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Components/WBP_Component_Button_Default] ([2] browsable assets)...
+[2024.12.10-14.33.29:964][162]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Components/WBP_Component_Button_Default.WBP_Component_Button_Default]
+[2024.12.10-14.33.29:964][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Components/WBP_Component_Button_Default]
+[2024.12.10-14.33.29:968][162]LogSavePackage: Moving output files for package: /Game/UI/Components/WBP_Component_Button_Default
+[2024.12.10-14.33.29:968][162]LogSavePackage: Moving 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Saved/WBP_Component_Button_DefaultC7FB18FE4F66672C7B698F9205B246DA.tmp' to 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/WBP_Component_Button_Default.uasset'
+[2024.12.10-14.33.29:976][162]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.554 ms (total: 1.88 sec)
+[2024.12.10-14.33.30:028][162]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.10-14.33.30:028][162]LogContentValidation: Enabled validators:
+[2024.12.10-14.33.30:028][162]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.10-14.33.30:028][162]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.10-14.33.30:028][162]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.10-14.33.30:028][162]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.10-14.33.30:028][162]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.10-14.33.30:028][162]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.10-14.33.30:029][162]AssetCheck: /Game/UI/Components/WBP_Component_Button_Default Validating asset
+[2024.12.10-14.34.12:126][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.12.10-14.34.12:159][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.12.10-14.34.12:811][228]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.10-14.34.12:864][228]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Components/WBP_Component_Button_Default] ([2] browsable assets)...
+[2024.12.10-14.34.12:866][228]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Components/WBP_Component_Button_Default.WBP_Component_Button_Default]
+[2024.12.10-14.34.12:866][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Components/WBP_Component_Button_Default]
+[2024.12.10-14.34.12:870][228]LogSavePackage: Moving output files for package: /Game/UI/Components/WBP_Component_Button_Default
+[2024.12.10-14.34.12:871][228]LogSavePackage: Moving 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Saved/WBP_Component_Button_Default3E09322643E884E288B50CBA885EA549.tmp' to 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/WBP_Component_Button_Default.uasset'
+[2024.12.10-14.34.12:879][228]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.817 ms (total: 1.95 sec)
+[2024.12.10-14.34.12:930][228]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.10-14.34.12:930][228]LogContentValidation: Enabled validators:
+[2024.12.10-14.34.12:930][228]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.10-14.34.12:930][228]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.10-14.34.12:930][228]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.10-14.34.12:930][228]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.10-14.34.12:930][228]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.10-14.34.12:930][228]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.10-14.34.12:931][228]AssetCheck: /Game/UI/Components/WBP_Component_Button_Default Validating asset
+[2024.12.10-14.34.32:821][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.12.10-14.34.58:709][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.12.10-14.35.27:777][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.12.10-14.35.28:739][252]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.10-14.35.28:802][252]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Components/WBP_Component_Button_Default] ([2] browsable assets)...
+[2024.12.10-14.35.28:806][252]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Components/WBP_Component_Button_Default.WBP_Component_Button_Default]
+[2024.12.10-14.35.28:806][252]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Components/WBP_Component_Button_Default]
+[2024.12.10-14.35.28:813][252]LogSavePackage: Moving output files for package: /Game/UI/Components/WBP_Component_Button_Default
+[2024.12.10-14.35.28:814][252]LogSavePackage: Moving 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Saved/WBP_Component_Button_Default53E6B9DE4EDE0B17F1C56FA38BBAF649.tmp' to 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/WBP_Component_Button_Default.uasset'
+[2024.12.10-14.35.28:826][252]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.256 ms (total: 2.04 sec)
+[2024.12.10-14.35.28:884][252]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.10-14.35.28:884][252]LogContentValidation: Enabled validators:
+[2024.12.10-14.35.28:884][252]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.10-14.35.28:884][252]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.10-14.35.28:884][252]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.10-14.35.28:884][252]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.10-14.35.28:884][252]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.10-14.35.28:884][252]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.10-14.35.28:885][252]AssetCheck: /Game/UI/Components/WBP_Component_Button_Default Validating asset
+[2024.12.10-14.35.37:395][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.12.10-14.35.37:402][947]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.10-14.35.37:452][947]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Components/WBP_Component_Button_Default] ([2] browsable assets)...
+[2024.12.10-14.35.37:452][947]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Components/WBP_Component_Button_Default]
+[2024.12.10-14.35.37:457][947]LogSavePackage: Moving output files for package: /Game/UI/Components/WBP_Component_Button_Default
+[2024.12.10-14.35.37:457][947]LogSavePackage: Moving 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Saved/WBP_Component_Button_Default3D9BCE47470AC3A5BDFB62A5239EB54C.tmp' to 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/WBP_Component_Button_Default.uasset'
+[2024.12.10-14.35.37:467][947]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.008 ms (total: 2.10 sec)
+[2024.12.10-14.35.37:519][947]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.10-14.35.37:519][947]LogContentValidation: Enabled validators:
+[2024.12.10-14.35.37:519][947]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.10-14.35.37:519][947]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.10-14.35.37:519][947]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.10-14.35.37:519][947]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.10-14.35.37:519][947]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.10-14.35.37:519][947]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.10-14.35.37:520][947]AssetCheck: /Game/UI/Components/WBP_Component_Button_Default Validating asset
+[2024.12.10-14.35.59:386][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.12.10-14.36.00:266][415]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.10-14.36.00:322][415]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Components/WBP_Component_Button_Default] ([2] browsable assets)...
+[2024.12.10-14.36.00:325][415]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Components/WBP_Component_Button_Default.WBP_Component_Button_Default]
+[2024.12.10-14.36.00:325][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Components/WBP_Component_Button_Default]
+[2024.12.10-14.36.00:331][415]LogSavePackage: Moving output files for package: /Game/UI/Components/WBP_Component_Button_Default
+[2024.12.10-14.36.00:331][415]LogSavePackage: Moving 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Saved/WBP_Component_Button_Default071BFA0545D404361157A5AC1835365F.tmp' to 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/WBP_Component_Button_Default.uasset'
+[2024.12.10-14.36.00:339][415]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.448 ms (total: 2.18 sec)
+[2024.12.10-14.36.00:404][415]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.10-14.36.00:404][415]LogContentValidation: Enabled validators:
+[2024.12.10-14.36.00:404][415]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.10-14.36.00:404][415]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.10-14.36.00:404][415]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.10-14.36.00:404][415]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.10-14.36.00:404][415]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.10-14.36.00:404][415]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.10-14.36.00:404][415]AssetCheck: /Game/UI/Components/WBP_Component_Button_Default Validating asset
+[2024.12.10-14.36.35:504][174]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4482.225586
+[2024.12.10-14.36.36:506][177]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.10-14.36.36:506][177]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4482.894531, Update Interval: 346.006653
+[2024.12.10-14.37.19:819][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.12.10-14.37.20:067][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.12.10-14.38.06:327][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.12.10-14.38.07:131][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.10-14.38.07:195][731]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Components/Menu/WBP_Menu_Main] ([2] browsable assets)...
+[2024.12.10-14.38.07:202][731]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Components/Menu/WBP_Menu_Main.WBP_Menu_Main]
+[2024.12.10-14.38.07:202][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Components/Menu/WBP_Menu_Main]
+[2024.12.10-14.38.07:202][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Components/Menu/WBP_Menu_Main" FILE="C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset" SILENT=true
+[2024.12.10-14.38.07:206][731]LogSavePackage: Moving output files for package: /Game/UI/Components/Menu/WBP_Menu_Main
+[2024.12.10-14.38.07:207][731]LogSavePackage: Moving 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Saved/WBP_Menu_Main077D39CB45A85B39A133CABB6F8349FC.tmp' to 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset'
+[2024.12.10-14.38.07:214][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.684 ms (total: 2.26 sec)
+[2024.12.10-14.38.07:280][731]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.10-14.38.07:280][731]LogContentValidation: Enabled validators:
+[2024.12.10-14.38.07:280][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.10-14.38.07:280][731]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.10-14.38.07:280][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.10-14.38.07:280][731]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.10-14.38.07:280][731]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.10-14.38.07:280][731]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.10-14.38.07:281][731]AssetCheck: /Game/UI/Components/Menu/WBP_Menu_Main Validating asset
+[2024.12.10-14.38.14:833][ 16]LogSlate: Took 0.010381 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.12.10-14.38.33:262][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.12.10-14.39.13:703][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.12.10-14.39.14:338][189]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.10-14.39.14:396][189]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Components/Menu/WBP_Menu_Main] ([2] browsable assets)...
+[2024.12.10-14.39.14:401][189]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Components/Menu/WBP_Menu_Main.WBP_Menu_Main]
+[2024.12.10-14.39.14:401][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Components/Menu/WBP_Menu_Main]
+[2024.12.10-14.39.14:401][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Components/Menu/WBP_Menu_Main" FILE="C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset" SILENT=true
+[2024.12.10-14.39.14:406][189]LogSavePackage: Moving output files for package: /Game/UI/Components/Menu/WBP_Menu_Main
+[2024.12.10-14.39.14:406][189]LogSavePackage: Moving 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Saved/WBP_Menu_Main965F3BBB43A76436E24E8187FBFBAFA8.tmp' to 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset'
+[2024.12.10-14.39.14:414][189]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.597 ms (total: 2.33 sec)
+[2024.12.10-14.39.14:462][189]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.10-14.39.14:462][189]LogContentValidation: Enabled validators:
+[2024.12.10-14.39.14:462][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.10-14.39.14:462][189]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.10-14.39.14:462][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.10-14.39.14:462][189]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.10-14.39.14:462][189]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.10-14.39.14:462][189]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.10-14.39.14:463][189]AssetCheck: /Game/UI/Components/Menu/WBP_Menu_Main Validating asset
+[2024.12.10-14.40.32:187][365]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.10-14.40.32:231][365]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Components/Menu/WBP_Menu_Main] ([2] browsable assets)...
+[2024.12.10-14.40.32:233][365]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Components/Menu/WBP_Menu_Main.WBP_Menu_Main]
+[2024.12.10-14.40.32:233][365]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Components/Menu/WBP_Menu_Main]
+[2024.12.10-14.40.32:233][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Components/Menu/WBP_Menu_Main" FILE="C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset" SILENT=true
+[2024.12.10-14.40.32:237][365]LogSavePackage: Moving output files for package: /Game/UI/Components/Menu/WBP_Menu_Main
+[2024.12.10-14.40.32:238][365]LogSavePackage: Moving 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Saved/WBP_Menu_Main17D6D9074B9482EFB93F59B24F40EBB2.tmp' to 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset'
+[2024.12.10-14.40.32:246][365]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.546 ms (total: 2.39 sec)
+[2024.12.10-14.40.32:297][365]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.10-14.40.32:297][365]LogContentValidation: Enabled validators:
+[2024.12.10-14.40.32:297][365]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.10-14.40.32:297][365]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.10-14.40.32:297][365]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.10-14.40.32:297][365]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.10-14.40.32:297][365]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.10-14.40.32:297][365]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.10-14.40.32:298][365]AssetCheck: /Game/UI/Components/Menu/WBP_Menu_Main Validating asset
+[2024.12.10-14.40.33:247][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.12.10-14.41.23:017][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.12.10-14.41.23:673][238]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.10-14.41.23:719][238]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Components/Menu/WBP_Menu_Main] ([2] browsable assets)...
+[2024.12.10-14.41.23:721][238]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Components/Menu/WBP_Menu_Main.WBP_Menu_Main]
+[2024.12.10-14.41.23:721][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Components/Menu/WBP_Menu_Main]
+[2024.12.10-14.41.23:721][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Components/Menu/WBP_Menu_Main" FILE="C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset" SILENT=true
+[2024.12.10-14.41.23:726][238]LogSavePackage: Moving output files for package: /Game/UI/Components/Menu/WBP_Menu_Main
+[2024.12.10-14.41.23:726][238]LogSavePackage: Moving 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Saved/WBP_Menu_Main0831068B48757CEC725242B483C5636C.tmp' to 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset'
+[2024.12.10-14.41.23:734][238]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.125 ms (total: 2.45 sec)
+[2024.12.10-14.41.23:768][238]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.10-14.41.23:768][238]LogContentValidation: Enabled validators:
+[2024.12.10-14.41.23:768][238]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.10-14.41.23:768][238]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.10-14.41.23:768][238]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.10-14.41.23:768][238]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.10-14.41.23:768][238]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.10-14.41.23:768][238]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.10-14.41.23:769][238]AssetCheck: /Game/UI/Components/Menu/WBP_Menu_Main Validating asset
+[2024.12.10-14.41.37:307][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.12.10-14.41.37:563][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.12.10-14.41.38:064][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.10-14.41.38:117][172]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Components/Menu/WBP_Menu_Main] ([2] browsable assets)...
+[2024.12.10-14.41.38:120][172]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Components/Menu/WBP_Menu_Main.WBP_Menu_Main]
+[2024.12.10-14.41.38:120][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Components/Menu/WBP_Menu_Main]
+[2024.12.10-14.41.38:120][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Components/Menu/WBP_Menu_Main" FILE="C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset" SILENT=true
+[2024.12.10-14.41.38:124][172]LogSavePackage: Moving output files for package: /Game/UI/Components/Menu/WBP_Menu_Main
+[2024.12.10-14.41.38:124][172]LogSavePackage: Moving 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Saved/WBP_Menu_Main1BBBBAC5442AA6A3C9BF2FBD55722516.tmp' to 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset'
+[2024.12.10-14.41.38:131][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.563 ms (total: 2.52 sec)
+[2024.12.10-14.41.38:167][172]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.10-14.41.38:167][172]LogContentValidation: Enabled validators:
+[2024.12.10-14.41.38:167][172]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.10-14.41.38:167][172]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.10-14.41.38:167][172]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.10-14.41.38:167][172]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.10-14.41.38:167][172]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.10-14.41.38:167][172]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.10-14.41.38:167][172]AssetCheck: /Game/UI/Components/Menu/WBP_Menu_Main Validating asset
+[2024.12.10-14.42.52:972][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.12.10-14.42.52:977][155]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UI/Components/Menu/MainMenu' took 0.030
+[2024.12.10-14.42.52:981][155]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Components/Menu/WBP_Menu_Main] ([2] browsable assets)...
+[2024.12.10-14.42.52:987][155]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Components/Menu/WBP_Menu_Main.WBP_Menu_Main]
+[2024.12.10-14.42.52:987][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Components/Menu/WBP_Menu_Main]
+[2024.12.10-14.42.52:993][155]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Components/Menu/WBP_Menu_Main_Auto4
+[2024.12.10-14.42.52:993][155]LogSavePackage: Moving 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Saved/WBP_Menu_Main_Auto49779E2E04BE2E717D3A83E979B2DE758.tmp' to 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Saved/Autosaves/Game/UI/Components/Menu/WBP_Menu_Main_Auto4.uasset'
+[2024.12.10-14.42.52:994][155]LogFileHelpers: Auto-saving content packages took 0.017
+[2024.12.10-14.42.53:227][156]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4859.956543
+[2024.12.10-14.42.54:227][159]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.10-14.42.54:227][159]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4860.625000, Update Interval: 338.517395
+[2024.12.10-14.43.34:100][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.12.10-14.43.34:237][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.12.10-14.43.34:812][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.10-14.43.34:840][298]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Components/Menu/WBP_Menu_Main] ([2] browsable assets)...
+[2024.12.10-14.43.34:844][298]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Components/Menu/WBP_Menu_Main.WBP_Menu_Main]
+[2024.12.10-14.43.34:844][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Components/Menu/WBP_Menu_Main]
+[2024.12.10-14.43.34:844][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Components/Menu/WBP_Menu_Main" FILE="C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset" SILENT=true
+[2024.12.10-14.43.34:849][298]LogSavePackage: Moving output files for package: /Game/UI/Components/Menu/WBP_Menu_Main
+[2024.12.10-14.43.34:850][298]LogSavePackage: Moving 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Saved/WBP_Menu_MainFC242A0442E81F71C4A34282A52AAACF.tmp' to 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset'
+[2024.12.10-14.43.34:857][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.440 ms (total: 2.57 sec)
+[2024.12.10-14.43.34:907][298]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.10-14.43.34:907][298]LogContentValidation: Enabled validators:
+[2024.12.10-14.43.34:907][298]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.10-14.43.34:907][298]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.10-14.43.34:907][298]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.10-14.43.34:907][298]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.10-14.43.34:907][298]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.10-14.43.34:907][298]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.10-14.43.34:908][298]AssetCheck: /Game/UI/Components/Menu/WBP_Menu_Main Validating asset
+[2024.12.10-14.43.54:227][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.12.10-14.44.24:025][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.12.10-14.44.24:034][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.10-14.44.24:093][821]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Components/Menu/WBP_Menu_Main] ([2] browsable assets)...
+[2024.12.10-14.44.24:095][821]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Components/Menu/WBP_Menu_Main.WBP_Menu_Main]
+[2024.12.10-14.44.24:095][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Components/Menu/WBP_Menu_Main]
+[2024.12.10-14.44.24:095][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Components/Menu/WBP_Menu_Main" FILE="C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset" SILENT=true
+[2024.12.10-14.44.24:100][821]LogSavePackage: Moving output files for package: /Game/UI/Components/Menu/WBP_Menu_Main
+[2024.12.10-14.44.24:101][821]LogSavePackage: Moving 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Saved/WBP_Menu_MainC5C196B54A77AD6C70E519B944CA0FCC.tmp' to 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset'
+[2024.12.10-14.44.24:109][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.762 ms (total: 2.64 sec)
+[2024.12.10-14.44.24:159][821]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.10-14.44.24:159][821]LogContentValidation: Enabled validators:
+[2024.12.10-14.44.24:159][821]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.10-14.44.24:159][821]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.10-14.44.24:159][821]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.10-14.44.24:161][821]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.10-14.44.24:161][821]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.10-14.44.24:161][821]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.10-14.44.24:162][821]AssetCheck: /Game/UI/Components/Menu/WBP_Menu_Main Validating asset
+[2024.12.10-14.46.02:724][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.12.10-14.46.02:953][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.12.10-14.46.03:665][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.10-14.46.03:716][731]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Components/Menu/WBP_Menu_Main] ([2] browsable assets)...
+[2024.12.10-14.46.03:720][731]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Components/Menu/WBP_Menu_Main.WBP_Menu_Main]
+[2024.12.10-14.46.03:720][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Components/Menu/WBP_Menu_Main]
+[2024.12.10-14.46.03:720][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Components/Menu/WBP_Menu_Main" FILE="C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset" SILENT=true
+[2024.12.10-14.46.03:727][731]LogSavePackage: Moving output files for package: /Game/UI/Components/Menu/WBP_Menu_Main
+[2024.12.10-14.46.03:728][731]LogSavePackage: Moving 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Saved/WBP_Menu_Main06A7697641160DC5559F80B2147F61C2.tmp' to 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset'
+[2024.12.10-14.46.03:736][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.054 ms (total: 2.71 sec)
+[2024.12.10-14.46.03:800][731]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.10-14.46.03:800][731]LogContentValidation: Enabled validators:
+[2024.12.10-14.46.03:800][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.10-14.46.03:801][731]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.10-14.46.03:801][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.10-14.46.03:801][731]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.10-14.46.03:801][731]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.10-14.46.03:801][731]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.10-14.46.03:802][731]AssetCheck: /Game/UI/Components/Menu/WBP_Menu_Main Validating asset
+[2024.12.10-14.46.25:688][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.12.10-14.46.25:846][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.12.10-14.47.39:505][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.12.10-14.47.40:256][494]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.10-14.47.40:303][494]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Components/Menu/WBP_Menu_Main] ([2] browsable assets)...
+[2024.12.10-14.47.40:306][494]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Components/Menu/WBP_Menu_Main.WBP_Menu_Main]
+[2024.12.10-14.47.40:306][494]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Components/Menu/WBP_Menu_Main]
+[2024.12.10-14.47.40:306][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Components/Menu/WBP_Menu_Main" FILE="C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset" SILENT=true
+[2024.12.10-14.47.40:315][494]LogSavePackage: Moving output files for package: /Game/UI/Components/Menu/WBP_Menu_Main
+[2024.12.10-14.47.40:315][494]LogSavePackage: Moving 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Saved/WBP_Menu_Main7126DC664EBC4A012057CEA268EF6586.tmp' to 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset'
+[2024.12.10-14.47.40:324][494]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.587 ms (total: 2.78 sec)
+[2024.12.10-14.47.40:385][494]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.10-14.47.40:385][494]LogContentValidation: Enabled validators:
+[2024.12.10-14.47.40:385][494]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.10-14.47.40:385][494]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.10-14.47.40:385][494]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.10-14.47.40:385][494]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.10-14.47.40:385][494]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.10-14.47.40:385][494]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.10-14.47.40:386][494]AssetCheck: /Game/UI/Components/Menu/WBP_Menu_Main Validating asset
+[2024.12.10-14.47.40:968][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.12.10-14.48.25:043][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.12.10-14.48.25:098][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.12.10-14.48.25:785][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.10-14.48.25:836][  0]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Components/Menu/WBP_Menu_Main] ([2] browsable assets)...
+[2024.12.10-14.48.25:839][  0]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Components/Menu/WBP_Menu_Main.WBP_Menu_Main]
+[2024.12.10-14.48.25:839][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Components/Menu/WBP_Menu_Main]
+[2024.12.10-14.48.25:839][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Components/Menu/WBP_Menu_Main" FILE="C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset" SILENT=true
+[2024.12.10-14.48.25:846][  0]LogSavePackage: Moving output files for package: /Game/UI/Components/Menu/WBP_Menu_Main
+[2024.12.10-14.48.25:847][  0]LogSavePackage: Moving 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Saved/WBP_Menu_MainAE55149248FC563D97098EB2ADF5150A.tmp' to 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset'
+[2024.12.10-14.48.25:854][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.245 ms (total: 2.85 sec)
+[2024.12.10-14.48.25:903][  0]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.10-14.48.25:903][  0]LogContentValidation: Enabled validators:
+[2024.12.10-14.48.25:903][  0]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.10-14.48.25:903][  0]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.10-14.48.25:903][  0]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.10-14.48.25:903][  0]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.10-14.48.25:903][  0]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.10-14.48.25:903][  0]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.10-14.48.25:904][  0]AssetCheck: /Game/UI/Components/Menu/WBP_Menu_Main Validating asset
+[2024.12.10-14.48.30:946][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.12.10-14.48.32:597][725]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.10-14.48.32:605][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.10-14.48.32:605][725]LogPlayLevel: Creating play world package: /Game/UI/Components/Menu/UEDPIE_0_MainMenu
+[2024.12.10-14.48.32:607][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001799s)
+[2024.12.10-14.48.32:607][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/Components/Menu/MainMenu.MainMenu to /Game/UI/Components/Menu/UEDPIE_0_MainMenu.MainMenu (0.001834s)
+[2024.12.10-14.48.32:629][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.12.10-14.48.32:633][725]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2024.12.10-14.48.32:637][725]LogPlayLevel: PIE: World Init took: (0.003725s)
+[2024.12.10-14.48.32:638][725]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.12.10-14.48.32:638][725]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.10-14.48.32:638][725]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.10-14.48.32:638][725]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.10-14.48.32:638][725]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.10-14.48.32:638][725]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.10-14.48.32:638][725]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.10-14.48.32:638][725]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.10-14.48.32:638][725]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.10-14.48.32:638][725]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.10-14.48.32:638][725]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.10-14.48.32:638][725]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.10-14.48.32:641][725]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.10-14.48.32:659][725]LogAudioMixer: Display: Using Audio Hardware Device Kopfhörer (HyperX Virtual Surround Sound)
+[2024.12.10-14.48.32:659][725]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.10-14.48.32:659][725]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.10-14.48.32:659][725]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.10-14.48.32:660][725]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.12.10-14.48.32:660][725]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.12.10-14.48.32:663][725]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.12.10-14.48.32:663][725]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.12.10-14.48.32:663][725]LogInit: FAudioDevice initialized with ID 3.
+[2024.12.10-14.48.32:663][725]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenu'.
+[2024.12.10-14.48.32:663][725]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.12.10-14.48.32:667][725]LogLoad: Game class is 'BP_GameMode_MainMenu_C'
+[2024.12.10-14.48.32:668][725]LogWorld: Bringing World /Game/UI/Components/Menu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.12.10-15.48.32
+[2024.12.10-14.48.32:669][725]LogWorld: Bringing up level for play took: 0.000994
+[2024.12.10-14.48.32:672][725]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.12.10-14.48.32:675][725]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.10-14.48.32:675][725]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.12.10-14.48.32:675][725]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.12.10-14.48.32:676][725]PIE: Server logged in
+[2024.12.10-14.48.32:677][725]PIE: Play in editor total start time 0.072 seconds.
+[2024.12.10-14.48.37:828][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.10-14.48.37:828][287]LogWorld: BeginTearingDown for /Game/UI/Components/Menu/UEDPIE_0_MainMenu
+[2024.12.10-14.48.37:828][287]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.12.10-14.48.37:829][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.10-14.48.37:832][287]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.10-14.48.37:837][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.10-14.48.37:856][287]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.10-14.48.37:856][287]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.12.10-14.48.37:856][287]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.12.10-14.48.37:859][287]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.12.10-14.48.37:865][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.10-14.48.37:869][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.12.10-14.48.37:997][288]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.12.10-14.48.43:281][635]LogStreaming: Display: FlushAsyncLoading(546): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.10-14.48.43:322][635]LogChaosDD: Creating Chaos Debug Draw Scene for world Blockout
+[2024.12.10-14.48.58:231][383]LogShaderCompilers: Display: ================================================
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: Total job queries 130, among them cache hits 11 (8.46%), DDC hits 33 (25.38%), Duplicates 1 (0.77%)
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: Tracking 118 distinct input hashes that result in 85 distinct outputs (72.03%)
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: RAM used: 90.13 KiB of 819.20 MiB budget. Usage: 0.01%
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: Shaders Compiled: 85
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: Jobs assigned 85, completed 85 (100%)
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: Average time worker was idle: 160.90 s
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: Time job spent in pending queue: average 0.16 s, longest 1.83 s
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: Job execution time: average 0.92 s, max 2.54 s
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: Job life time (pending + execution): average 1.08 s, max 2.64
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: Shader code size: average 8.272 KiB, min 3.832 KiB, max 19.879 KiB
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 21.14 s
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: Jobs were issued in 85 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: Average processing rate: 4.02 jobs/sec
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: Total thread time: 55.765 s
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: Total thread preprocess time: 2.006 s
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: Percentage time preprocessing: 3.60%
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: Effective parallelization: 2.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    6 times, average 1.44 sec, max 1.86 sec, min 1.12 sec)
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   10 times, average 0.99 sec, max 1.37 sec, min 0.91 sec)
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   16 times, average 0.63 sec, max 1.03 sec, min 0.48 sec)
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    3 times, average 0.61 sec, max 0.74 sec, min 0.43 sec)
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    3 times, average 0.53 sec, max 0.56 sec, min 0.47 sec)
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.01% of total time (compiled   16 times, average 0.63 sec, max 1.03 sec, min 0.48 sec)
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 17.82% of total time (compiled   10 times, average 0.99 sec, max 1.37 sec, min 0.91 sec)
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 15.53% of total time (compiled    6 times, average 1.44 sec, max 1.86 sec, min 1.12 sec)
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.45% of total time (compiled   16 times, average 0.40 sec, max 0.68 sec, min 0.28 sec)
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display:                                                 FLumenCardPS - 10.69% of total time (compiled   12 times, average 0.50 sec, max 0.80 sec, min 0.37 sec)
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: === Material stats ===
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: Materials Translated:    127
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: Material Total Translate Time: 0.06 s
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: Material Translation Only: 0.03 s (56%)
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: Material Cache Hits: 36 (28%)
+[2024.12.10-14.48.58:232][383]LogShaderCompilers: Display: ================================================
+[2024.12.10-14.49.13:116][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.12.10-14.49.19:616][620]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5246.336914
+[2024.12.10-14.49.19:767][638]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.10-14.49.19:768][638]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5246.479004, Update Interval: 353.680847
+[2024.12.10-14.49.27:122][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.12.10-14.49.41:151][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.12.10-14.49.41:157][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.10-14.49.41:209][519]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Components/Menu/WBP_Menu_Main] ([2] browsable assets)...
+[2024.12.10-14.49.41:213][519]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Components/Menu/WBP_Menu_Main.WBP_Menu_Main]
+[2024.12.10-14.49.41:213][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Components/Menu/WBP_Menu_Main]
+[2024.12.10-14.49.41:213][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Components/Menu/WBP_Menu_Main" FILE="C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset" SILENT=true
+[2024.12.10-14.49.41:221][519]LogSavePackage: Moving output files for package: /Game/UI/Components/Menu/WBP_Menu_Main
+[2024.12.10-14.49.41:222][519]LogSavePackage: Moving 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Saved/WBP_Menu_Main9A3BCE7241B528010C7724938606558B.tmp' to 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset'
+[2024.12.10-14.49.41:229][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.759 ms (total: 2.92 sec)
+[2024.12.10-14.49.41:291][519]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.10-14.49.41:291][519]LogContentValidation: Enabled validators:
+[2024.12.10-14.49.41:291][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.10-14.49.41:291][519]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.10-14.49.41:291][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.10-14.49.41:291][519]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.10-14.49.41:291][519]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.10-14.49.41:291][519]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.10-14.49.41:292][519]AssetCheck: /Game/UI/Components/Menu/WBP_Menu_Main Validating asset
+[2024.12.10-14.49.43:459][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.12.10-14.49.44:323][814]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.10-14.49.44:376][814]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Components/Menu/WBP_Menu_Main] ([2] browsable assets)...
+[2024.12.10-14.49.44:378][814]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Components/Menu/WBP_Menu_Main.WBP_Menu_Main]
+[2024.12.10-14.49.44:378][814]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Components/Menu/WBP_Menu_Main]
+[2024.12.10-14.49.44:378][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Components/Menu/WBP_Menu_Main" FILE="C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset" SILENT=true
+[2024.12.10-14.49.44:386][814]LogSavePackage: Moving output files for package: /Game/UI/Components/Menu/WBP_Menu_Main
+[2024.12.10-14.49.44:387][814]LogSavePackage: Moving 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Saved/WBP_Menu_Main43F3D7314768AAB0A511B6BCAA18EF5C.tmp' to 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset'
+[2024.12.10-14.49.44:394][814]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.505 ms (total: 2.99 sec)
+[2024.12.10-14.49.44:461][814]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.10-14.49.44:461][814]LogContentValidation: Enabled validators:
+[2024.12.10-14.49.44:461][814]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.10-14.49.44:461][814]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.10-14.49.44:461][814]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.10-14.49.44:461][814]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.10-14.49.44:461][814]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.10-14.49.44:461][814]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.10-14.49.44:463][814]AssetCheck: /Game/UI/Components/Menu/WBP_Menu_Main Validating asset
+[2024.12.10-14.50.27:606][699]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetSystemLibrary::PrintString' [Element nicht gefunden.]
+[2024.12.10-14.50.33:387][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.12.10-14.50.33:948][388]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.10-14.50.34:009][388]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Components/Menu/WBP_Menu_Main] ([2] browsable assets)...
+[2024.12.10-14.50.34:012][388]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Components/Menu/WBP_Menu_Main.WBP_Menu_Main]
+[2024.12.10-14.50.34:012][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Components/Menu/WBP_Menu_Main]
+[2024.12.10-14.50.34:012][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Components/Menu/WBP_Menu_Main" FILE="C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset" SILENT=true
+[2024.12.10-14.50.34:020][388]LogSavePackage: Moving output files for package: /Game/UI/Components/Menu/WBP_Menu_Main
+[2024.12.10-14.50.34:021][388]LogSavePackage: Moving 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Saved/WBP_Menu_MainF26F4F6A4039BB67C53697B4F8FDDEE7.tmp' to 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset'
+[2024.12.10-14.50.34:029][388]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.675 ms (total: 3.08 sec)
+[2024.12.10-14.50.34:093][388]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.10-14.50.34:093][388]LogContentValidation: Enabled validators:
+[2024.12.10-14.50.34:093][388]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.10-14.50.34:093][388]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.10-14.50.34:093][388]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.10-14.50.34:093][388]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.10-14.50.34:093][388]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.10-14.50.34:093][388]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.10-14.50.34:094][388]AssetCheck: /Game/UI/Components/Menu/WBP_Menu_Main Validating asset
+[2024.12.10-14.50.35:235][490]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.10-14.50.35:244][490]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.10-14.50.35:244][490]LogPlayLevel: Creating play world package: /Game/UI/Components/Menu/UEDPIE_0_MainMenu
+[2024.12.10-14.50.35:246][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001742s)
+[2024.12.10-14.50.35:246][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/Components/Menu/MainMenu.MainMenu to /Game/UI/Components/Menu/UEDPIE_0_MainMenu.MainMenu (0.001772s)
+[2024.12.10-14.50.35:267][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.12.10-14.50.35:272][490]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2024.12.10-14.50.35:273][490]LogPlayLevel: PIE: World Init took: (0.001695s)
+[2024.12.10-14.50.35:274][490]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.12.10-14.50.35:274][490]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.10-14.50.35:274][490]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.10-14.50.35:274][490]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.10-14.50.35:274][490]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.10-14.50.35:274][490]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.10-14.50.35:274][490]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.10-14.50.35:274][490]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.10-14.50.35:274][490]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.10-14.50.35:274][490]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.10-14.50.35:274][490]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.10-14.50.35:274][490]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.10-14.50.35:277][490]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.10-14.50.35:294][490]LogAudioMixer: Display: Using Audio Hardware Device Kopfhörer (HyperX Virtual Surround Sound)
+[2024.12.10-14.50.35:294][490]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.10-14.50.35:294][490]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.10-14.50.35:294][490]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.10-14.50.35:295][490]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.12.10-14.50.35:295][490]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.12.10-14.50.35:297][490]LogInit: FAudioDevice initialized with ID 4.
+[2024.12.10-14.50.35:297][490]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.12.10-14.50.35:297][490]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.12.10-14.50.35:297][490]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMenu'.
+[2024.12.10-14.50.35:297][490]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.12.10-14.50.35:300][490]LogLoad: Game class is 'BP_GameMode_MainMenu_C'
+[2024.12.10-14.50.35:301][490]LogWorld: Bringing World /Game/UI/Components/Menu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.12.10-15.50.35
+[2024.12.10-14.50.35:301][490]LogWorld: Bringing up level for play took: 0.000872
+[2024.12.10-14.50.35:304][490]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.12.10-14.50.35:306][490]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.10-14.50.35:306][490]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.12.10-14.50.35:306][490]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.12.10-14.50.35:308][490]PIE: Server logged in
+[2024.12.10-14.50.35:309][490]PIE: Play in editor total start time 0.065 seconds.
+[2024.12.10-14.50.40:147][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.10-14.50.40:147][913]LogWorld: BeginTearingDown for /Game/UI/Components/Menu/UEDPIE_0_MainMenu
+[2024.12.10-14.50.40:147][913]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.12.10-14.50.40:147][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.10-14.50.40:160][913]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.10-14.50.40:166][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.10-14.50.40:191][913]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.10-14.50.40:191][913]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.12.10-14.50.40:191][913]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.12.10-14.50.40:194][913]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.12.10-14.50.40:198][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.10-14.50.40:202][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.12.10-14.50.40:345][914]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.12.10-14.50.45:489][420]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.12.10-14.50.45:490][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.10-14.50.45:500][420]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.12.10-14.50.45:500][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.10-14.50.45:571][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.12.10-14.51.07:610][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.12.10-14.51.08:212][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.12.10-14.51.08:219][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.10-14.51.08:279][ 95]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Components/Menu/WBP_Menu_Main] ([2] browsable assets)...
+[2024.12.10-14.51.08:282][ 95]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Components/Menu/WBP_Menu_Main.WBP_Menu_Main]
+[2024.12.10-14.51.08:282][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Components/Menu/WBP_Menu_Main]
+[2024.12.10-14.51.08:282][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Components/Menu/WBP_Menu_Main" FILE="C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset" SILENT=true
+[2024.12.10-14.51.08:290][ 95]LogSavePackage: Moving output files for package: /Game/UI/Components/Menu/WBP_Menu_Main
+[2024.12.10-14.51.08:291][ 95]LogSavePackage: Moving 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Saved/WBP_Menu_MainA8984E9D4D537B4A89C5BB92214B5815.tmp' to 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset'
+[2024.12.10-14.51.08:299][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.225 ms (total: 3.16 sec)
+[2024.12.10-14.51.08:365][ 95]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.10-14.51.08:365][ 95]LogContentValidation: Enabled validators:
+[2024.12.10-14.51.08:365][ 95]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.10-14.51.08:365][ 95]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.10-14.51.08:365][ 95]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.10-14.51.08:365][ 95]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.10-14.51.08:365][ 95]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.10-14.51.08:365][ 95]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.10-14.51.08:366][ 95]AssetCheck: /Game/UI/Components/Menu/WBP_Menu_Main Validating asset
+[2024.12.10-14.51.09:120][177]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.10-14.51.09:163][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Components/Menu/WBP_Menu_Main] ([2] browsable assets)...
+[2024.12.10-14.51.09:163][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Components/Menu/WBP_Menu_Main]
+[2024.12.10-14.51.09:163][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Components/Menu/WBP_Menu_Main" FILE="C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset" SILENT=true
+[2024.12.10-14.51.09:174][177]LogSavePackage: Moving output files for package: /Game/UI/Components/Menu/WBP_Menu_Main
+[2024.12.10-14.51.09:175][177]LogSavePackage: Moving 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Saved/WBP_Menu_Main2E686E6044078FA4826417A80867C5C4.tmp' to 'C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset'
+[2024.12.10-14.51.09:186][177]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.525 ms (total: 3.22 sec)
+[2024.12.10-14.51.09:246][177]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.10-14.51.09:246][177]LogContentValidation: Enabled validators:
+[2024.12.10-14.51.09:246][177]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.10-14.51.09:246][177]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.10-14.51.09:246][177]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.10-14.51.09:246][177]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.10-14.51.09:246][177]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.10-14.51.09:246][177]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.10-14.51.09:248][177]AssetCheck: /Game/UI/Components/Menu/WBP_Menu_Main Validating asset
+[2024.12.10-14.51.11:063][327]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.10-14.51.11:071][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.10-14.51.11:072][327]LogPlayLevel: Creating play world package: /Game/UI/Components/Menu/UEDPIE_0_MainMenu
+[2024.12.10-14.51.11:073][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001530s)
+[2024.12.10-14.51.11:073][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/Components/Menu/MainMenu.MainMenu to /Game/UI/Components/Menu/UEDPIE_0_MainMenu.MainMenu (0.001559s)
+[2024.12.10-14.51.11:095][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.12.10-14.51.11:098][327]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2024.12.10-14.51.11:099][327]LogPlayLevel: PIE: World Init took: (0.001905s)
+[2024.12.10-14.51.11:100][327]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.12.10-14.51.11:100][327]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.10-14.51.11:100][327]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.10-14.51.11:100][327]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.10-14.51.11:100][327]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.10-14.51.11:100][327]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.10-14.51.11:100][327]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.10-14.51.11:100][327]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.10-14.51.11:100][327]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.10-14.51.11:100][327]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.10-14.51.11:100][327]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.10-14.51.11:100][327]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.10-14.51.11:103][327]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.10-14.51.11:119][327]LogAudioMixer: Display: Using Audio Hardware Device Kopfhörer (HyperX Virtual Surround Sound)
+[2024.12.10-14.51.11:119][327]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.10-14.51.11:120][327]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.10-14.51.11:120][327]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.10-14.51.11:120][327]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.12.10-14.51.11:120][327]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.12.10-14.51.11:123][327]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.12.10-14.51.11:123][327]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.12.10-14.51.11:123][327]LogInit: FAudioDevice initialized with ID 5.
+[2024.12.10-14.51.11:123][327]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMenu'.
+[2024.12.10-14.51.11:123][327]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.12.10-14.51.11:126][327]LogLoad: Game class is 'BP_GameMode_MainMenu_C'
+[2024.12.10-14.51.11:127][327]LogWorld: Bringing World /Game/UI/Components/Menu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.12.10-15.51.11
+[2024.12.10-14.51.11:127][327]LogWorld: Bringing up level for play took: 0.000682
+[2024.12.10-14.51.11:130][327]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.12.10-14.51.11:132][327]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.10-14.51.11:132][327]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.12.10-14.51.11:132][327]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.12.10-14.51.11:132][327]PIE: Server logged in
+[2024.12.10-14.51.11:133][327]PIE: Play in editor total start time 0.062 seconds.
+[2024.12.10-14.51.12:813][490]LogBlueprintUserMessages: [WBP_Menu_Main_C_0] Game quit
+[2024.12.10-14.51.12:814][490]Cmd: quit
+[2024.12.10-14.51.12:824][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.10-14.51.12:825][490]LogWorld: BeginTearingDown for /Game/UI/Components/Menu/UEDPIE_0_MainMenu
+[2024.12.10-14.51.12:845][490]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.12.10-14.51.12:845][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.10-14.51.12:860][490]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.10-14.51.12:867][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.10-14.51.12:892][490]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.10-14.51.12:892][490]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.12.10-14.51.12:892][490]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.12.10-14.51.12:903][490]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.12.10-14.51.12:908][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.10-14.51.12:911][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.12.10-14.51.13:117][491]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.12.10-14.51.15:124][641]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.10-14.51.15:133][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.10-14.51.15:165][641]LogPlayLevel: Creating play world package: /Game/UI/Components/Menu/UEDPIE_0_MainMenu
+[2024.12.10-14.51.15:169][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003292s)
+[2024.12.10-14.51.15:169][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/Components/Menu/MainMenu.MainMenu to /Game/UI/Components/Menu/UEDPIE_0_MainMenu.MainMenu (0.003382s)
+[2024.12.10-14.51.15:193][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.12.10-14.51.15:196][641]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2024.12.10-14.51.15:198][641]LogPlayLevel: PIE: World Init took: (0.001892s)
+[2024.12.10-14.51.15:199][641]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.12.10-14.51.15:199][641]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.10-14.51.15:199][641]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.10-14.51.15:199][641]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.10-14.51.15:199][641]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.10-14.51.15:199][641]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.10-14.51.15:199][641]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.10-14.51.15:199][641]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.10-14.51.15:199][641]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.10-14.51.15:199][641]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.10-14.51.15:199][641]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.10-14.51.15:199][641]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.10-14.51.15:203][641]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.10-14.51.15:220][641]LogAudioMixer: Display: Using Audio Hardware Device Kopfhörer (HyperX Virtual Surround Sound)
+[2024.12.10-14.51.15:220][641]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.10-14.51.15:220][641]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.10-14.51.15:220][641]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.10-14.51.15:220][641]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.12.10-14.51.15:220][641]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.12.10-14.51.15:223][641]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.12.10-14.51.15:223][641]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.12.10-14.51.15:223][641]LogInit: FAudioDevice initialized with ID 6.
+[2024.12.10-14.51.15:223][641]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainMenu'.
+[2024.12.10-14.51.15:224][641]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.12.10-14.51.15:227][641]LogLoad: Game class is 'BP_GameMode_MainMenu_C'
+[2024.12.10-14.51.15:228][641]LogWorld: Bringing World /Game/UI/Components/Menu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.12.10-15.51.15
+[2024.12.10-14.51.15:228][641]LogWorld: Bringing up level for play took: 0.001012
+[2024.12.10-14.51.15:231][641]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.12.10-14.51.15:233][641]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.10-14.51.15:233][641]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.12.10-14.51.15:233][641]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.12.10-14.51.15:234][641]PIE: Server logged in
+[2024.12.10-14.51.15:236][641]PIE: Play in editor total start time 0.103 seconds.
+[2024.12.10-14.51.15:790][687]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Max/Blockout"
+[2024.12.10-14.51.15:790][687]LogNet: Browse: /Game/Maps/Max/Blockout
+[2024.12.10-14.51.15:791][687]LogLoad: LoadMap: /Game/Maps/Max/Blockout
+[2024.12.10-14.51.15:791][687]LogWorld: BeginTearingDown for /Game/UI/Components/Menu/UEDPIE_0_MainMenu
+[2024.12.10-14.51.15:794][687]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.12.10-14.51.15:794][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.10-14.51.15:837][687]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.10-14.51.15:839][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.12.10-14.51.15:848][687]LogPlayLevel: Creating play world package: /Game/Maps/Max/UEDPIE_0_Blockout
+[2024.12.10-14.51.15:858][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010387s)
+[2024.12.10-14.51.15:858][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Max/Blockout.Blockout to /Game/Maps/Max/UEDPIE_0_Blockout.Blockout (0.010464s)
+[2024.12.10-14.51.15:858][687]LogAudio: Display: Audio Device (ID: 6) registered with world 'Blockout'.
+[2024.12.10-14.51.15:858][687]LogChaosDD: Creating Chaos Debug Draw Scene for world Blockout
+[2024.12.10-14.51.15:860][687]LogPlayLevel: PIE: World Init took: (0.001618s)
+[2024.12.10-14.51.15:861][687]LogStreaming: Display: FlushAsyncLoading(547): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.10-14.51.15:876][687]LogLoad: Game class is 'BP_FrogFu_GameMode_C'
+[2024.12.10-14.51.15:881][687]LogWorld: Bringing World /Game/Maps/Max/UEDPIE_0_Blockout.Blockout up for play (max tick rate 0) at 2024.12.10-15.51.15
+[2024.12.10-14.51.15:881][687]LogWorld: Bringing up level for play took: 0.004769
+[2024.12.10-14.51.15:935][687]LogLoad: Took 0.143423 seconds to LoadMap(/Game/Maps/Max/UEDPIE_0_Blockout)
+[2024.12.10-14.51.15:935][687]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Max/UEDPIE_0_Blockout
+[2024.12.10-14.51.21:896][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.10-14.51.21:897][ 57]LogWorld: BeginTearingDown for /Game/Maps/Max/UEDPIE_0_Blockout
+[2024.12.10-14.51.21:897][ 57]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=true
+[2024.12.10-14.51.21:900][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.10-14.51.21:904][ 57]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.10-14.51.21:911][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.10-14.51.21:936][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.10-14.51.21:936][ 57]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.12.10-14.51.21:936][ 57]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.12.10-14.51.21:940][ 57]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.12.10-14.51.21:948][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.10-14.51.22:092][ 58]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.12.10-14.51.30:413][100]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.10-14.51.30:420][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.10-14.51.30:421][100]LogPlayLevel: Creating play world package: /Game/UI/Components/Menu/UEDPIE_0_MainMenu
+[2024.12.10-14.51.30:422][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001596s)
+[2024.12.10-14.51.30:422][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/Components/Menu/MainMenu.MainMenu to /Game/UI/Components/Menu/UEDPIE_0_MainMenu.MainMenu (0.001625s)
+[2024.12.10-14.51.30:444][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.12.10-14.51.30:447][100]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2024.12.10-14.51.30:448][100]LogPlayLevel: PIE: World Init took: (0.001557s)
+[2024.12.10-14.51.30:449][100]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.12.10-14.51.30:449][100]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.10-14.51.30:449][100]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.10-14.51.30:449][100]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.10-14.51.30:449][100]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.10-14.51.30:449][100]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.10-14.51.30:449][100]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.10-14.51.30:449][100]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.10-14.51.30:449][100]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.10-14.51.30:449][100]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.10-14.51.30:449][100]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.10-14.51.30:449][100]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.10-14.51.30:452][100]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.10-14.51.30:467][100]LogAudioMixer: Display: Using Audio Hardware Device Kopfhörer (HyperX Virtual Surround Sound)
+[2024.12.10-14.51.30:468][100]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.10-14.51.30:468][100]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.10-14.51.30:468][100]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.10-14.51.30:468][100]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.12.10-14.51.30:468][100]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.12.10-14.51.30:471][100]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.12.10-14.51.30:471][100]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.12.10-14.51.30:471][100]LogInit: FAudioDevice initialized with ID 7.
+[2024.12.10-14.51.30:471][100]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMenu'.
+[2024.12.10-14.51.30:471][100]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.12.10-14.51.30:476][100]LogLoad: Game class is 'BP_GameMode_MainMenu_C'
+[2024.12.10-14.51.30:477][100]LogWorld: Bringing World /Game/UI/Components/Menu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.12.10-15.51.30
+[2024.12.10-14.51.30:477][100]LogWorld: Bringing up level for play took: 0.000775
+[2024.12.10-14.51.30:480][100]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.12.10-14.51.30:482][100]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.10-14.51.30:482][100]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.12.10-14.51.30:482][100]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.12.10-14.51.30:483][100]PIE: Server logged in
+[2024.12.10-14.51.30:484][100]PIE: Play in editor total start time 0.064 seconds.
+[2024.12.10-14.51.31:249][152]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Max/Blockout"
+[2024.12.10-14.51.31:249][152]LogNet: Browse: /Game/Maps/Max/Blockout
+[2024.12.10-14.51.31:249][152]LogLoad: LoadMap: /Game/Maps/Max/Blockout
+[2024.12.10-14.51.31:249][152]LogWorld: BeginTearingDown for /Game/UI/Components/Menu/UEDPIE_0_MainMenu
+[2024.12.10-14.51.31:250][152]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.12.10-14.51.31:251][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.10-14.51.31:307][152]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.10-14.51.31:309][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.12.10-14.51.31:316][152]LogPlayLevel: Creating play world package: /Game/Maps/Max/UEDPIE_0_Blockout
+[2024.12.10-14.51.31:324][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007726s)
+[2024.12.10-14.51.31:324][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Max/Blockout.Blockout to /Game/Maps/Max/UEDPIE_0_Blockout.Blockout (0.007775s)
+[2024.12.10-14.51.31:324][152]LogAudio: Display: Audio Device (ID: 7) registered with world 'Blockout'.
+[2024.12.10-14.51.31:324][152]LogChaosDD: Creating Chaos Debug Draw Scene for world Blockout
+[2024.12.10-14.51.31:325][152]LogPlayLevel: PIE: World Init took: (0.001551s)
+[2024.12.10-14.51.31:326][152]LogStreaming: Display: FlushAsyncLoading(549): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.10-14.51.31:326][152]LogLoad: Game class is 'BP_FrogFu_GameMode_C'
+[2024.12.10-14.51.31:329][152]LogWorld: Bringing World /Game/Maps/Max/UEDPIE_0_Blockout.Blockout up for play (max tick rate 0) at 2024.12.10-15.51.31
+[2024.12.10-14.51.31:329][152]LogWorld: Bringing up level for play took: 0.003626
+[2024.12.10-14.51.31:334][152]LogLoad: Took 0.085094 seconds to LoadMap(/Game/Maps/Max/UEDPIE_0_Blockout)
+[2024.12.10-14.51.31:334][152]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Max/UEDPIE_0_Blockout
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: ================================================
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: Total job queries 245, among them cache hits 16 (6.53%), DDC hits 141 (57.55%), Duplicates 2 (0.82%)
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: Tracking 227 distinct input hashes that result in 190 distinct outputs (83.70%)
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: RAM used: 137.46 KiB of 819.20 MiB budget. Usage: 0.02%
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: Shaders Compiled: 86
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: Jobs assigned 86, completed 86 (100%)
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: Average time worker was idle: 160.77 s
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: Time job spent in pending queue: average 0.16 s, longest 1.83 s
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: Job execution time: average 0.92 s, max 2.54 s
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: Job life time (pending + execution): average 1.08 s, max 2.64
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: Shader code size: average 8.279 KiB, min 3.832 KiB, max 19.879 KiB
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 22.21 s
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: Jobs were issued in 86 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: Average processing rate: 3.87 jobs/sec
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: Total thread time: 56.206 s
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: Total thread preprocess time: 4.846 s
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: Percentage time preprocessing: 8.62%
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: Effective parallelization: 2.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    6 times, average 1.44 sec, max 1.86 sec, min 1.12 sec)
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   10 times, average 0.99 sec, max 1.37 sec, min 0.91 sec)
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   16 times, average 0.63 sec, max 1.03 sec, min 0.48 sec)
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    3 times, average 0.61 sec, max 0.74 sec, min 0.43 sec)
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    3 times, average 0.53 sec, max 0.56 sec, min 0.47 sec)
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.87% of total time (compiled   16 times, average 0.63 sec, max 1.03 sec, min 0.48 sec)
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 17.68% of total time (compiled   10 times, average 0.99 sec, max 1.37 sec, min 0.91 sec)
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 15.41% of total time (compiled    6 times, average 1.44 sec, max 1.86 sec, min 1.12 sec)
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.36% of total time (compiled   16 times, average 0.40 sec, max 0.68 sec, min 0.28 sec)
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display:                                                 FLumenCardPS - 10.60% of total time (compiled   12 times, average 0.50 sec, max 0.80 sec, min 0.37 sec)
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: === Material stats ===
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: Materials Translated:    127
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: Material Total Translate Time: 0.06 s
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: Material Translation Only: 0.03 s (56%)
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: Material Cache Hits: 36 (28%)
+[2024.12.10-14.51.58:244][196]LogShaderCompilers: Display: ================================================
+[2024.12.10-14.52.05:495][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.10-14.52.05:495][745]LogWorld: BeginTearingDown for /Game/Maps/Max/UEDPIE_0_Blockout
+[2024.12.10-14.52.05:495][745]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=true
+[2024.12.10-14.52.05:496][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.10-14.52.05:500][745]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.10-14.52.05:505][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.10-14.52.05:525][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.10-14.52.05:525][745]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.12.10-14.52.05:525][745]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.12.10-14.52.05:527][745]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.12.10-14.52.05:535][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.12.10-14.52.05:662][746]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.12.10-14.54.35:494][249]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.10-14.54.35:508][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.10-14.54.35:543][249]LogPlayLevel: Creating play world package: /Game/UI/Components/Menu/UEDPIE_0_MainMenu
+[2024.12.10-14.54.35:545][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002442s)
+[2024.12.10-14.54.35:545][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/Components/Menu/MainMenu.MainMenu to /Game/UI/Components/Menu/UEDPIE_0_MainMenu.MainMenu (0.002510s)
+[2024.12.10-14.54.35:570][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.12.10-14.54.35:575][249]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2024.12.10-14.54.35:577][249]LogPlayLevel: PIE: World Init took: (0.001985s)
+[2024.12.10-14.54.35:578][249]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.12.10-14.54.35:578][249]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.10-14.54.35:578][249]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.10-14.54.35:578][249]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.10-14.54.35:578][249]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.10-14.54.35:578][249]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.10-14.54.35:578][249]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.10-14.54.35:578][249]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.10-14.54.35:578][249]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.10-14.54.35:578][249]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.10-14.54.35:578][249]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.10-14.54.35:578][249]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.10-14.54.35:581][249]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.10-14.54.35:595][249]LogAudioMixer: Display: Using Audio Hardware Device Kopfhörer (HyperX Virtual Surround Sound)
+[2024.12.10-14.54.35:595][249]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.10-14.54.35:595][249]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.10-14.54.35:595][249]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.10-14.54.35:596][249]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.12.10-14.54.35:596][249]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.12.10-14.54.35:599][249]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.12.10-14.54.35:599][249]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.12.10-14.54.35:599][249]LogInit: FAudioDevice initialized with ID 8.
+[2024.12.10-14.54.35:599][249]LogAudio: Display: Audio Device (ID: 8) registered with world 'MainMenu'.
+[2024.12.10-14.54.35:599][249]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.12.10-14.54.35:602][249]LogLoad: Game class is 'BP_GameMode_MainMenu_C'
+[2024.12.10-14.54.35:603][249]LogWorld: Bringing World /Game/UI/Components/Menu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.12.10-15.54.35
+[2024.12.10-14.54.35:603][249]LogWorld: Bringing up level for play took: 0.000681
+[2024.12.10-14.54.35:605][249]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.12.10-14.54.35:607][249]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.10-14.54.35:607][249]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.12.10-14.54.35:607][249]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.12.10-14.54.35:608][249]PIE: Server logged in
+[2024.12.10-14.54.35:609][249]PIE: Play in editor total start time 0.102 seconds.
+[2024.12.10-14.54.36:450][321]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Max/Blockout"
+[2024.12.10-14.54.36:450][321]LogNet: Browse: /Game/Maps/Max/Blockout
+[2024.12.10-14.54.36:450][321]LogLoad: LoadMap: /Game/Maps/Max/Blockout
+[2024.12.10-14.54.36:450][321]LogWorld: BeginTearingDown for /Game/UI/Components/Menu/UEDPIE_0_MainMenu
+[2024.12.10-14.54.36:452][321]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.12.10-14.54.36:452][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.10-14.54.36:494][321]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.10-14.54.36:497][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.12.10-14.54.36:504][321]LogPlayLevel: Creating play world package: /Game/Maps/Max/UEDPIE_0_Blockout
+[2024.12.10-14.54.36:511][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007128s)
+[2024.12.10-14.54.36:512][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Max/Blockout.Blockout to /Game/Maps/Max/UEDPIE_0_Blockout.Blockout (0.007187s)
+[2024.12.10-14.54.36:512][321]LogAudio: Display: Audio Device (ID: 8) registered with world 'Blockout'.
+[2024.12.10-14.54.36:512][321]LogChaosDD: Creating Chaos Debug Draw Scene for world Blockout
+[2024.12.10-14.54.36:513][321]LogPlayLevel: PIE: World Init took: (0.001730s)
+[2024.12.10-14.54.36:513][321]LogStreaming: Display: FlushAsyncLoading(550): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.10-14.54.36:513][321]LogLoad: Game class is 'BP_FrogFu_GameMode_C'
+[2024.12.10-14.54.36:517][321]LogWorld: Bringing World /Game/Maps/Max/UEDPIE_0_Blockout.Blockout up for play (max tick rate 0) at 2024.12.10-15.54.36
+[2024.12.10-14.54.36:517][321]LogWorld: Bringing up level for play took: 0.003418
+[2024.12.10-14.54.36:521][321]LogLoad: Took 0.071136 seconds to LoadMap(/Game/Maps/Max/UEDPIE_0_Blockout)
+[2024.12.10-14.54.36:521][321]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Max/UEDPIE_0_Blockout
+[2024.12.10-14.54.39:154][508]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.12.10-14.54.39:154][508]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.12.10-14.54.40:359][598]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.10-14.54.40:359][598]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.12.10-14.54.41:393][676]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.12.10-14.54.41:393][676]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.12.10-14.54.42:170][734]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.10-14.54.42:170][734]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.12.10-14.54.42:831][784]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.12.10-14.54.42:831][784]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.12.10-14.54.43:452][830]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.10-14.54.43:452][830]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.12.10-14.54.44:101][879]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.12.10-14.54.44:101][879]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.12.10-14.54.44:671][921]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.10-14.54.44:671][921]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.12.10-14.54.45:313][970]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.12.10-14.54.45:313][970]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.12.10-14.54.45:966][ 18]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.10-14.54.45:966][ 18]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.12.10-14.54.46:584][ 64]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.12.10-14.54.46:584][ 64]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.12.10-14.54.47:263][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.10-14.54.47:264][111]LogWorld: BeginTearingDown for /Game/Maps/Max/UEDPIE_0_Blockout
+[2024.12.10-14.54.47:264][111]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=true
+[2024.12.10-14.54.47:265][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.10-14.54.47:276][111]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.10-14.54.47:283][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.10-14.54.47:305][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.10-14.54.47:305][111]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.12.10-14.54.47:305][111]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.12.10-14.54.47:308][111]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.12.10-14.54.47:317][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.12.10-14.54.47:542][112]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.12.10-14.54.50:403][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
