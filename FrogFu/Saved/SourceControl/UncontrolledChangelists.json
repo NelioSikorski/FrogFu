@@ -5,7 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset"
+				"C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Pause.uasset",
+				"C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset",
+				"C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/Core/BPI_GameInstance.uasset",
+				"C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_Instance.uasset",
+				"C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/TopDown/Input/BPI_Input.uasset"
 			]
 		}
 	]
