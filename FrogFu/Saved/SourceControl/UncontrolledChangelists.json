@@ -13,7 +13,9 @@
 				"C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/TopDown/Input/BPI_Input.uasset",
 				"C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/WBP_Component_Button_Default.uasset",
 				"C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/Core/BP_FrogFU_HUD.uasset",
-				"C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/MainMenu.umap"
+				"C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/MainMenu.umap",
+				"C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Settings_Parent.uasset",
+				"C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Settings_Graphics.uasset"
 			]
 		}
 	]
