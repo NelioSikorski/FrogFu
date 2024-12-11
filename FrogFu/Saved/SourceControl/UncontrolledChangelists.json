@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_SpawnController.uasset",
+				"E:/WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_Spawn.uasset",
+				"E:/WinterGamejam2024/FrogFu/FrogFu/Content/__ExternalActors__/Maps/Nelio/TestGroundsNelio/1/L1/PCNGCPFIHGFROW9Y3ROKF8.uasset",
+				"E:/WinterGamejam2024/FrogFu/FrogFu/Content/__ExternalActors__/Maps/Nelio/TestGroundsNelio/0/H7/6Y97LTU7H8J2FK27AD56QF.uasset",
+				"E:/WinterGamejam2024/FrogFu/FrogFu/Content/__ExternalActors__/Maps/Nelio/TestGroundsNelio/6/TB/LL1BQXSWMXK0BH60YHPXH3.uasset",
+				"E:/WinterGamejam2024/FrogFu/FrogFu/Content/__ExternalActors__/Maps/Nelio/TestGroundsNelio/8/69/7T1S4TXKOSSVKP22G8UWLH.uasset",
 				"C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Pause.uasset",
 				"C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset",
