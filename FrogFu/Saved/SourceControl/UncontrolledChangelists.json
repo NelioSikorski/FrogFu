@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/WinterGamejam2024/FrogFu/FrogFu/Content/Maps/Max/Blockout.umap",
+				"E:/WinterGamejam2024/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_Spawn.uasset",
 				"G:/Htk/3Sem/UnrealProjects/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"G:/Htk/3Sem/UnrealProjects/FrogFu/FrogFu/Content/TopDown/Input/IMC_Default.uasset",
 				"G:/Htk/3Sem/UnrealProjects/FrogFu/FrogFu/Content/TopDown/Input/Actions/IA_LightAttack.uasset",
