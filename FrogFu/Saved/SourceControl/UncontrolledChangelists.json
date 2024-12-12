@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Uni/Github/FrogFu/FrogFu/FrogFu/Content/Maps/Max/MainMenu1.umap",
+				"E:/Uni/Github/FrogFu/FrogFu/FrogFu/Content/Maps/Onno/Player/BullfrogNew_WithworkingRigify_Skeleton.uasset",
+				"E:/Uni/Github/FrogFu/FrogFu/FrogFu/Content/Maps/Onno/BP_StartScreenCharacter.uasset",
 				"C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Pause.uasset",
 				"C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/UI/Components/Menu/WBP_Menu_Main.uasset",
@@ -22,7 +25,6 @@
 				"C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/Sounds/BPI_SoundManager.uasset",
 				"C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/Maps/Onno/WBP_Healthbar.uasset",
 				"C:/Users/vince/HTK Sachen/WISe2024_gamejam/FrogFu/FrogFu/Content/Maps/Onno/WBP_EnemyHealthbar.uasset",
-				"E:/Uni/Github/FrogFu/FrogFu/FrogFu/Content/Maps/Max/MainMenu1.umap",
 				"G:/Htk/3Sem/UnrealProjects/FrogFu/FrogFu/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"G:/Htk/3Sem/UnrealProjects/FrogFu/FrogFu/Content/TopDown/Input/IMC_Default.uasset",
 				"G:/Htk/3Sem/UnrealProjects/FrogFu/FrogFu/Content/TopDown/Input/Actions/IA_LightAttack.uasset",
